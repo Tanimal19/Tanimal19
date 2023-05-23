@@ -1,6 +1,7 @@
-- 我不擅長 打程式語言
-- 我很擅長 被程式打
-- 正在學習 不被程式打
+### Oe<
+Less Than OE
+
+Doesn't it look like a stick man?
 
 
 <!---
