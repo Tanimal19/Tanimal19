@@ -1,7 +1,6 @@
-### Oe<
-Less Than OE
-
-Doesn't it look like a stick man?
+### Tanimal
+Hi I'm Tanimal
+I only do things I like
 
 
 <!---
