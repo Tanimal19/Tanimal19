@@ -1,6 +1,6 @@
 ### Tanimal
-Hi I'm Tanimal  
-I only do things I like
+I'm not good at programming.
+This is my blog : <https://tanimal19.github.io>
 
 
 <!---
