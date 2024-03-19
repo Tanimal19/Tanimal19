@@ -5,6 +5,9 @@ This is my blog : <https://tanimal19.github.io>
 ### Skills
 [![Skills](https://skillicons.dev/icons?i=c,py,html,css,js,electron,figma&theme=light)](https://skillicons.dev)
 
+#### Still learning
+
+
 I used both windows(playing games) and linux(working)
 I don't use macOS, cause I can afford a macbook 😢
 
