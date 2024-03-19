@@ -2,6 +2,11 @@
   <img src="https://github.com/Tanimal19/Tanimal19/blob/75a8f2f2b4f1e95b92294b4d232fbf21328e11ed/greeting.png">
 </div>
 
+<h1>
+  Nice to see yo<br>
+  I'm Tanimal :D
+</h1>
+
 
 I'm not good at programming.  
 This is my blog : <https://tanimal19.github.io>  
