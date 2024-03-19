@@ -1,13 +1,15 @@
-<h2 align="center">Hello I'm Tanimal</h2>
+<div align="center">
+  <h2>Hi! I'm Tanimal</h2>
+</div>
 
 I'm not good at programming.  
 This is my blog : <https://tanimal19.github.io>  
 
-### Skills
+### Slightly know of
 [![Skills](https://skillicons.dev/icons?i=c,py,html,css,js,electron&theme=light)](https://skillicons.dev)
 
-#### under learning
-[![Skills](https://skillicons.dev/icons?i=cpp,unity,docker,react,nextjs,mysql,pytorch,tensorflow&theme=light)](https://skillicons.dev)
+#### Recently interesting in
+[![Skills](https://skillicons.dev/icons?i=cpp,unity,react,nextjs,pytorch,tensorflow&theme=light)](https://skillicons.dev)
 
 I used both windows(playing games) and linux(working)  
 I don't use macOS, cause I can't afford a macbook 😢
