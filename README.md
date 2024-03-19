@@ -4,10 +4,18 @@
 </div>
 <br>
 <div>
-  <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">
-  <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter3.svg">
-  <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg">
-  <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
+  <a href="https://github.com/Tanimal19">
+    <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">
+  </a>
+  <a href="https://twitter.com">
+    <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter3.svg">
+  </a>
+  <a href="tanimal1912@gmail.com">
+    <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg">
+  </a>
+  <a href="https://www.linkedin.com/in/%E5%8D%9A%E5%85%81-%E9%84%AD-3731652b4/">
+    <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
+  </a>
 </div>
 
 
