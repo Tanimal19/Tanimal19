@@ -1,5 +1,4 @@
 <div align="center">
-  <h2>Hi! I'm Tanimal</h2>
 </div>
 
 I'm not good at programming.  
