@@ -1,6 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm <text style="color:red">Tanimal</text> :D</h1>
-  <img src="">
+  <img src="https://github.com/Tanimal19/Tanimal19/blob/3d3e18f97ab102d4ea6d29dface0f55870fb958d/greeting.png">
 </div>
 
 
