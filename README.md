@@ -18,7 +18,7 @@
   </a>
 </div>
 <br>
-Visit my [Personal blog](https://tanimal19.github.io)  
+Visit my blog: <https://tanimal19.github.io>  
 
 #### Tools
 I use both **Windows**(playing games) and **Arch**(coding) btw 😉
