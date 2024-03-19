@@ -17,23 +17,17 @@
     <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
   </a>
 </div>
-
-
+<br>
 Visit my [Personal blog](https://tanimal19.github.io)  
 
 #### Tools
 I use both **Windows**(playing games) and **Arch**(coding) btw 😉
-
 
 #### Slightly know some
 [![Skills](https://skillicons.dev/icons?i=c,py,html,css,js,electron&theme=light)](https://skillicons.dev)
 
 #### Recently interesting in
 [![Skills](https://skillicons.dev/icons?i=cpp,unity,react,nextjs,pytorch,tensorflow&theme=light)](https://skillicons.dev)
-
-
-I used both windows(playing games) and linux(working)  
-I don't use macOS, cause I can't afford a macbook 😢
 
 
 <!---
