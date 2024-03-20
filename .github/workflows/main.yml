@@ -1,0 +1,21 @@
+name: Update Spotify Playlist
+on:
+  schedule:
+    - cron: "0 0 * * 1"
+
+jobs:
+  update_spotify_playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Update Spotify Playlist
+        uses: wei/pull-readme-action@v1
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          files: README.md
+          script: |
+            #!/bin/bash
+            curl --request GET \
+            --url 'https://api.spotify.com/v1/playlists/6Fdwfw86A0M5m5NtGm2j3d?market=TW' \
+            --header 'Authorization: Bearer 1POdFZRZbvb...qqillRxMr2z'
+            
+            
