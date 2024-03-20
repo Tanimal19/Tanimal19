@@ -1,21 +1,28 @@
 name: Update Spotify Playlist
 on:
-  schedule:
-    - cron: "0 0 * * 1"
+  workflow_dispatch:
 
 jobs:
   update_spotify_playlist:
     runs-on: ubuntu-latest
     steps:
-      - name: Update Spotify Playlist
-        uses: wei/pull-readme-action@v1
+      - name: Checkout
+        uses: actions/checkout@v4.1.2
+  
+      - name: Setup Python
+        uses: actions/setup-python@v5.0.0
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          files: README.md
-          script: |
-            #!/bin/bash
-            curl --request GET \
-            --url 'https://api.spotify.com/v1/playlists/6Fdwfw86A0M5m5NtGm2j3d?market=TW' \
-            --header 'Authorization: Bearer 1POdFZRZbvb...qqillRxMr2z'
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install requests
+          
+      - name: Update Spotify Playlist
+        env:
+          SPOTIFY_ACCESS_TOKEN: ${{ secrets.SPOTIFY_ACCESS_TOKEN }}
+        run: |
+          python update_spotify_playlist.py
             
             
