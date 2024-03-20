@@ -1,6 +1,7 @@
-<br>
 <div align="center">
+  <br>
   <img src="https://github.com/Tanimal19/Tanimal19/blob/6b8a7463b76ce2431b51721b25e96f950864cb7c/Greeting.png" height="100px">
+  <br>
   <br>
   <br>
   <a href="https://github.com/Tanimal19">
@@ -15,15 +16,18 @@
     <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/gmail.svg">
   </a>
   &ensp;
-  <a href="https://www.linkedin.com/in/%E5%8D%9A%E5%85%81-%E9%84%AD-3731652b4/">
+  <a href="https://www.linkedin.com">
     <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/linkedin.svg">
   </a>
+  <br>
+  <br>
+  My blog 👉 https://tanimal19.github.io  
 </div>
-<br>
-Visit my blog 👉 https://tanimal19.github.io  
+
+
 
 #### Tools
-Vscode, Obsidian, Notion
+Frequently use **Vscode**, **Notion** and **Obsidian**  
 I use both **Windows**(playing games) and **Arch**(coding) btw 😉
 
 #### Slightly know some
