@@ -27,12 +27,17 @@
 </div>
 
 ### About Me
+<img height="150px" align="left" src="https://static.wikia.nocookie.net/pokelist/images/8/85/Alolan_Vulpix.png/revision/latest/scale-to-width-down/230?cb=20160903134413">
+
 Ordinary CSIE student in National Taiwan University  
 My ultimate goal of life is **Chill** 🫠
 
-- carrot ❌ rice cracker ✔️  
-- dog&cat ❌ Alolan Vulpix ✔️  
-- I use both **Windows**(playing games) and **Arch**(coding) btw 😉
+<br>
+
+carrot ❌ rice cracker ✔️  
+dog&cat ❌ Alolan Vulpix ✔️  
+use both **Windows**(playing games) and **Arch**(coding) btw 😉
+
 
 #### Works I've done
 > You want my treasure, you can have it.  
