@@ -1,5 +1,55 @@
 const request = require('request');
 
+var client_id = 'bd16f32b8a5b4b5cbbfe82414ec2cf8c';
+var redirect_uri = 'http://localhost:8080/authorize';
+
+var app = express();
+
+app.get('/login', function(req, res) {
+
+  var state = generateRandomString(16);
+  var scope = 'playlist-read-private playlist-read-collaborative';
+
+  res.redirect('https://accounts.spotify.com/authorize?' +
+    querystring.stringify({
+      response_type: 'code',
+      client_id: client_id,
+      scope: scope,
+      redirect_uri: redirect_uri,
+      state: state
+    }));
+});
+
+
+
+app.get('/callback', function(req, res) {
+
+  var code = req.query.code || null;
+  var state = req.query.state || null;
+
+  if (state === null) {
+    res.redirect('/#' +
+      querystring.stringify({
+        error: 'state_mismatch'
+      }));
+  } else {
+    var authOptions = {
+      url: 'https://accounts.spotify.com/api/token',
+      form: {
+        code: code,
+        redirect_uri: redirect_uri,
+        grant_type: 'authorization_code'
+      },
+      headers: {
+        'content-type': 'application/x-www-form-urlencoded',
+        'Authorization': 'Basic ' + (new Buffer.from(client_id + ':' + client_secret).toString('base64'))
+      },
+      json: true
+    };
+  }
+});
+
+
 // 定义API端点和播放列表ID
 const playlistEndpoint = 'https://api.spotify.com/v1/playlists/';
 const playlistId = '6Fdwfw86A0M5m5NtGm2j3d';  // 请将此替换为您的实际播放列表ID
