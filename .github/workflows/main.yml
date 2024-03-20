@@ -23,6 +23,6 @@ jobs:
         env:
           SPOTIFY_ACCESS_TOKEN: ${{ secrets.SPOTIFY_ACCESS_TOKEN }}
         run: |
-          python update_spotify_playlist.py
+          python .github/workflows/update_spotify_playlist.py
             
             
