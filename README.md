@@ -25,23 +25,24 @@
   <br>
   My blog 👉 https://tanimal19.github.io  
 </div>
-
-### About Me
-<img height="150px" align="left" src="https://static.wikia.nocookie.net/pokelist/images/8/85/Alolan_Vulpix.png/revision/latest/scale-to-width-down/230?cb=20160903134413">
-
-Ordinary CSIE student in National Taiwan University  
-My ultimate goal of life is **Chill** 🫠
-
 <br>
 
-carrot ❌ rice cracker ✔️  
-dog&cat ❌ Alolan Vulpix ✔️  
-use both **Windows**(playing games) and **Arch**(coding) btw 😉
+### About Me
+<img height="140px" align="left" src="https://github.com/Tanimal19/Tanimal19/blob/c5ba493dc54620eaddd16fe205538e898841398c/favicon.png">
+<div>
+  Ordinary CSIE student in National Taiwan University  
+  <br>
+  My ultimate goal of life is **Chill** 🫠
+  <br>
+  <br>
+  carrot ❌ rice cracker ✔️
+  <br>
+  dog&cat ❌ Alolan Vulpix ✔️
+  <br>
+  I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</strong>(coding) btw 😉
+</div>
 
-
-#### Works I've done
-> You want my treasure, you can have it.  
-> I left everything I gathered together in my github repos. Now, you just have to find it.
+<br>
 
 #### Things I slightly know
 <div>
@@ -63,11 +64,17 @@ use both **Windows**(playing games) and **Arch**(coding) btw 😉
   <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
 </div>
 
+#### Works I've done
+> You want my treasure, you can have it.  
+> I left everything I gathered together in my github repos. Now, you just have to find it.
 
 <br>
 <br>
+<br>
 
-> gif is from this good website very good 👉 https://walfiegif.wordpress.com/
+
+> [!IMPORTANT]  
+> Gif is from this good website very good 👉 https://walfiegif.wordpress.com/
 
 <!---
 Tanimal19/Tanimal19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
