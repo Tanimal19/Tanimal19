@@ -4,16 +4,19 @@
   <br>
   <br>
   <a href="https://github.com/Tanimal19">
-    <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" border="0">
+    <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/github.svg">
   </a>
+  &ensp;
   <a href="https://twitter.com">
-
+    <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/twitter.svg">
   </a>
+  &ensp;
   <a href="mailto:tanimal1912@gmail.com">
-    <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Gmail/gmail3.svg">
+    <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/gmail.svg">
   </a>
+  &ensp;
   <a href="https://www.linkedin.com/in/%E5%8D%9A%E5%85%81-%E9%84%AD-3731652b4/">
-    <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/LinkedIn/linkedin3.svg">
+    <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/linkedin.svg">
   </a>
 </div>
 <br>
