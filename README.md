@@ -4,19 +4,19 @@
   <br>
   <br>
   <br>
-  <a href="https://github.com/Tanimal19">
+  <a href="https://github.com/Tanimal19" target="_blank">
     <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/github.svg">
   </a>
   &ensp;
-  <a href="https://twitter.com">
+  <a href="https://twitter.com" target="_blank">
     <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/twitter.svg">
   </a>
   &ensp;
-  <a href="mailto:tanimal1912@gmail.com">
+  <a href="mailto:tanimal1912@gmail.com" target="_blank">
     <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/gmail.svg">
   </a>
   &ensp;
-  <a href="https://www.linkedin.com">
+  <a href="https://www.linkedin.com" target="_blank">
     <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/linkedin.svg">
   </a>
   <br>
