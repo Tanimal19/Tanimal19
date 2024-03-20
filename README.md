@@ -5,7 +5,7 @@
 <br>
 <div>
   <a href="https://github.com/Tanimal19">
-    <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg">
+    <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Github/github3.svg" border="0">
   </a>
   <a href="https://twitter.com">
     <img height="20px" src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Twitter/twitter3.svg">
@@ -18,7 +18,7 @@
   </a>
 </div>
 <br>
-Visit my blog: <https://tanimal19.github.io>  
+Visit my blog 👉 https://tanimal19.github.io  
 
 #### Tools
 I use both **Windows**(playing games) and **Arch**(coding) btw 😉
