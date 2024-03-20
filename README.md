@@ -28,20 +28,13 @@
 <br>
 
 ### About Me
-<img height="140px" align="left" src="https://github.com/Tanimal19/Tanimal19/blob/c5ba493dc54620eaddd16fe205538e898841398c/favicon.png">
-<div>
-  Ordinary CSIE student in National Taiwan University  
-  <br>
-  My ultimate goal of life is **Chill** 🫠
-  <br>
-  <br>
-  carrot ❌ rice cracker ✔️
-  <br>
-  dog&cat ❌ Alolan Vulpix ✔️
-  <br>
-  I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</strong>(coding) btw 😉
-</div>
+Ordinary CSIE student in National Taiwan University  
+My ultimate goal of life is **Chill** 🫠
 
+carrot ❌ rice cracker ✔️  
+dog&cat ❌ Alolan Vulpix ✔️  
+I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</strong>(coding) btw 😉
+<br>
 <br>
 
 #### Things I slightly know
@@ -66,7 +59,7 @@
 
 #### Works I've done
 > You want my treasure, you can have it.  
-> I left everything I gathered together in my github repos. Now, you just have to find it.
+> I left everything I gathered together in my **github repos**. Now, you just have to find it.
 
 <br>
 <br>
