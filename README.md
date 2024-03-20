@@ -30,9 +30,9 @@
 Ordinary CSIE student in National Taiwan University  
 My ultimate goal of life is **Chill** 🫠
 
-carrot ❌ rice cracker ✔️  
-dog&cat ❌ Alolan Vulpix ✔️  
-I use both **Windows**(playing games) and **Arch**(coding) btw 😉
+- carrot ❌ rice cracker ✔️  
+- dog&cat ❌ Alolan Vulpix ✔️  
+- I use both **Windows**(playing games) and **Arch**(coding) btw 😉
 
 #### Works I've done
 > You want my treasure, you can have it.  
