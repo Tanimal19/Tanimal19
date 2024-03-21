@@ -38,22 +38,22 @@ async function main() {
   // Fetch Spotify Data
   const url_art = 'https://api.spotify.com/v1/me/top/artists?time_range=short_term&limit=5&offset=0';
   const topArtistList = await fetchSpotifyStats(url_art);
-  var topArtistHtml;
+  var topArtistHtml = '';
 
   if (topArtistList.length > 0) {
     topArtistList.forEach(function (i) {
-      topArtistHtml += "<div><img width='60px' src='" + i.images[0].url + "'><br>" + i.name + "</div>\n";
+      topArtistHtml += "<div><img width='60px' src='" + i.images[0].url + "'><br>" + i.name + "</div><br>\n";
     });
   }
 
   const url_track = 'https://api.spotify.com/v1/me/top/tracks?time_range=short_term&limit=10&offset=0';
   const topTrackList = await fetchSpotifyStats(url_track);
-  var topTrackHtml;
+  var topTrackHtml = '';
 
   if (topTrackList.length > 0) {
     topTrackHtml = "<ol>\n";
     topTrackList.forEach(function (i) {
-      topTrackHtml += "<li><div><strong>" + i.name + "</strong></div><div>";
+      topTrackHtml += "<li><div><strong>" + i.name + "</strong></div>\n<div>";
       const artists = i.artists;
       artists.forEach(function (a) {
         topTrackHtml += a.name;
