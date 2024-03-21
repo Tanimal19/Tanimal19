@@ -63,15 +63,17 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 > I left everything I gathered together in my **github repos**. Now, you just have to find it.
 --->
 
-#### Music 🎵
-my top artists and tracks for last 4 weeks by spotify
+<br>
+
+#### Music
+my top artists and tracks for last 4 weeks 👇
 <table>
   <tr>
     <td align="center"><strong>Top Artists</strong></td>
     <td align="center"><strong>Top Tracks</strong></td>
   </tr>
   <tr>
-    <td id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
+    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br><strong>Aimer</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br><strong>NewJeans</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
