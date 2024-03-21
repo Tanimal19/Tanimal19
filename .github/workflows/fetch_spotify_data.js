@@ -41,7 +41,7 @@ async function main() {
   var topArtistHtml;
 
   if (topArtistList.length > 0) {
-    topArtistHtml = "<div>Top Artists</div><ol>\n";
+    topArtistHtml = "<h4>Top Artists</h4><ol>\n";
 
     topArtistList.forEach(function (i) {
       topArtistHtml += "<li>" + i.name + "</li>\n";
@@ -55,10 +55,10 @@ async function main() {
   var topTrackHtml;
 
   if (topTrackList.length > 0) {
-    topTrackHtml = "<div>Top Tracks</div><ol>\n";
+    topTrackHtml = "<h4>Top Tracks</h4><ol>\n";
 
     topTrackList.forEach(function (i) {
-      topTrackHtml += "<li><div><strong>" + i.name + "</strong></div><br><div>";
+      topTrackHtml += "<li><div><strong>" + i.name + "</strong></div><div>";
 
       const artists = i.artists;
       artists.forEach(function (a) {
