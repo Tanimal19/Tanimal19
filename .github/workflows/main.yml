@@ -1,4 +1,4 @@
-name: Fetch Spotify Data
+name: Update Spotify Stats
 on:
   workflow_dispatch:
 
@@ -21,12 +21,15 @@ jobs:
         run: |
           node .github/workflows/fetch_spotify_data.js
           
-      - name: Readme Replacer - Readme-Workflows
-        uses: Readme-Workflows/readme-replacer@v1.0.1
+      - name: Commit Readme
+        run: |
+          git add TEST.md
+          git config --global user.email "actions@github.com"
+          git config --global user.name "GitHub Actions"
+          git commit -m "Update Spotify Stats" TEST.md
+
+      - name: GitHub Push
+        uses: ad-m/github-push-action@v0.6.0
         with:
-          TEMPLATE_FILE: ./TEMPLATE.md
-          COMMIT_FILE: ./TEST.md
-          CUSTOM_REPLACER_FILE: ./.github/Replacer.json
+          github_token: $\{{ secrets.GITHUB_TOKEN }}
           
-            
-            
