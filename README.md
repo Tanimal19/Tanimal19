@@ -57,13 +57,15 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
   <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
 </div>
 
+<!---
 #### Works I've done
 > You want my treasure, you can have it.  
 > I left everything I gathered together in my **github repos**. Now, you just have to find it.
+--->
 
 #### Music 🎵
 my top artists and tracks for last 4 weeks by spotify
-<table height="300px">
+<table>
   <tr>
     <td align="center"><strong>Top Artists</strong></td>
     <td align="center"><strong>Top Tracks</strong></td>
@@ -105,7 +107,7 @@ my top artists and tracks for last 4 weeks by spotify
 <br>
 <br>
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > Gif is from this good website very good 👉 https://walfiegif.wordpress.com/
 
 <!---
