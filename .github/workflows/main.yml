@@ -8,11 +8,6 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4.1.2
-        
-      - name: Read original README
-        id: readme
-        run: |
-          cat README.md
   
       - name: Setup Node.js environment
         uses: actions/setup-node@v4.0.2
@@ -36,5 +31,5 @@ jobs:
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
         with:
-          github_token: $\{{ secrets.GITHUB_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           
