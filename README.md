@@ -61,20 +61,14 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 > You want my treasure, you can have it.  
 > I left everything I gathered together in my **github repos**. Now, you just have to find it.
 
-<br>
-<br>
-<br>
-
 #### Music 🎵
-
-<table>
- <tr>
-   <td></td>
+my top artists and tracks for last 4 weeks by spotify
+<table height="300px">
+  <tr>
     <td align="center"><strong>Top Artists</strong></td>
     <td align="center"><strong>Top Tracks</strong></td>
- </tr>
- <tr>
-   <td><img width="100px" src="https://github.com/Tanimal19/Tanimal19/blob/ff6cbe6aab68280f72ed4738b533460d34353873/icon/Spotify_Logo_RGB_Black.png"></td>
+  </tr>
+  <tr>
     <td id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br><strong>Aimer</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br><strong>NewJeans</strong></div><br>
@@ -103,11 +97,13 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <li><div><strong>Perfect Night</strong></div>
 <div>LE SSERAFIM</div>
 </ol></td>
- </tr>
+  </tr>
 </table>
+<img width="120px" src="https://github.com/Tanimal19/Tanimal19/blob/bf0a3a19f66ada166be4661cd923271218886fa4/icon/Spotify_Logo_CMYK_Green.png">
 
-
-
+<br>
+<br>
+<br>
 
 > [!IMPORTANT]  
 > Gif is from this good website very good 👉 https://walfiegif.wordpress.com/
