@@ -103,7 +103,6 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 </ol></td>
  </tr>
 </table>
-
 <img width="100px" src="https://github.com/Tanimal19/Tanimal19/blob/ff6cbe6aab68280f72ed4738b533460d34353873/icon/Spotify_Logo_RGB_Black.png">
 
 
