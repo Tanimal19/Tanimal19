@@ -67,16 +67,16 @@ async function main() {
   // Modify Readme Content
   var data = fs.readFileSync('README.md', 'utf8');
   
-  const regex_art = /<div id="top-artist">([\s\S]*?)<\/div>/;
+  const regex_art = /<td id="top-artist">([\s\S]*?)<\/td>/;
   const match_art = data.match(regex_art);
   if (match_art) {
-    data = data.replace(match_art[0], `<div id="top-artist">${topArtistHtml}</div id="top-artist">`);
+    data = data.replace(match_art[0], `<td id="top-artist">${topArtistHtml}</td">`);
   }
 
-  const regex_track = /<div id="top-track">([\s\S]*?)<\/div>/;
+  const regex_track = /<td id="top-track">([\s\S]*?)<\/td>/;
   const match_track = data.match(regex_track);
   if (match_track) {
-    data = data.replace(match_track[0], `<div id="top-track">${topTrackHtml}</div id="top-track">`);
+    data = data.replace(match_track[0], `<td id="top-track">${topTrackHtml}</td>`);
   }
     
   fs.writeFile('README.md', data, (err) => {
