@@ -36,7 +36,7 @@ axios.post('https://accounts.spotify.com/api/token', querystring.stringify({
         });
         html += "</table>";
 
-        const data = fs.readFileSync('README.md');
+        const data = fs.readFileSync('README.md', 'utf8');
         const regex = /<div id="spotify">([\s\S]*?)<\/div>/;
         const match = data.match(regex);
         if (match) {
