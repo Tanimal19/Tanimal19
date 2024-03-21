@@ -34,6 +34,8 @@ My ultimate goal of life is **Chill** 🫠
 carrot ❌ rice cracker ✔️  
 dog&cat ❌ Alolan Vulpix ✔️  
 I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</strong>(coding) btw 😉
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanimal19)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <br>
 
