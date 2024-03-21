@@ -65,28 +65,23 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <br>
 <br>
 
-<div id="spotify">
-  <h4>Top Artists</h4>
-  <ol>
-    <li>Vaundy</li>
-    <li>Aimer</li>
-    <li>NewJeans</li>
-    <li>ヨルシカ</li>
-    <li>Jay Chou</li>
-  </ol>
-  <h4>Top Tracks</h4><ol>
-    <li><div><strong>SMILEY(Feat. BIBI)</strong></div><div>YENABIBI</div>
-    <li><div><strong>Talk that Talk</strong></div><div>TWICE</div>
-    <li><div><strong>Valentine Kiss</strong></div><div>Tsukasa Hiiragi (CV: Kaori Fukuhara)</div>
-    <li><div><strong>Obsessed</strong></div><div>Ayumu Imazu</div>
-    <li><div><strong>CHANGE</strong></div><div>瘦子E.SO</div>
-    <li><div><strong>而立</strong></div><div>WeiBird</div>
-    <li><div><strong>Attention</strong></div><div>NewJeans</div>
-    <li><div><strong>幹大事</strong></div><div>頑童Mj116</div>
-    <li><div><strong>WAIT</strong></div><div>瘦子E.SO</div>
-    <li><div><strong>Perfect Night</strong></div><div>LE SSERAFIM</div>
-  </ol>
-</div>
+<table>
+ <tr>
+    <td>Top Artists</td>
+    <td>Top Tracks</td>
+ </tr>
+ <tr>
+    <td>
+      <div id="top-artist"></div>
+    </td>
+    <td>
+      <div id="top-track"></div>
+    </td>
+ </tr>
+</table>
+source from
+<img width="150px" src="https://github.com/Tanimal19/Tanimal19/blob/58803e9d0893e9ced54ad9e488507a8a02c56757/icon/Spotify_Logo_RGB_Black.png">
+
 
 
 > [!IMPORTANT]  
