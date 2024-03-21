@@ -77,6 +77,11 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br>NewJeans</div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br>ヨルシカ</div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br>Jay Chou</div><br>
+</div id="top-artist"><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br>Aimer</div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br>NewJeans</div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br>ヨルシカ</div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br>Jay Chou</div><br>
 </div>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br>Aimer</div>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br>NewJeans</div>
@@ -87,6 +92,26 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
     <td>
       <div id="top-track"><ol>
 <li><div><strong>SMILEY(Feat. BIBI)</strong></div>
+<div>YENABIBI</div>
+<li><div><strong>Talk that Talk</strong></div>
+<div>TWICE</div>
+<li><div><strong>Valentine Kiss</strong></div>
+<div>Tsukasa Hiiragi (CV: Kaori Fukuhara)</div>
+<li><div><strong>Obsessed</strong></div>
+<div>Ayumu Imazu</div>
+<li><div><strong>CHANGE</strong></div>
+<div>瘦子E.SO</div>
+<li><div><strong>而立</strong></div>
+<div>WeiBird</div>
+<li><div><strong>Attention</strong></div>
+<div>NewJeans</div>
+<li><div><strong>幹大事</strong></div>
+<div>頑童Mj116</div>
+<li><div><strong>WAIT</strong></div>
+<div>瘦子E.SO</div>
+<li><div><strong>Perfect Night</strong></div>
+<div>LE SSERAFIM</div>
+</ol></div id="top-track">
 <div>YENABIBI</div>
 <li><div><strong>Talk that Talk</strong></div>
 <div>TWICE</div>
