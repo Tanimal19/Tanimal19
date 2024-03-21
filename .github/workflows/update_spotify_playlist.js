@@ -8,22 +8,22 @@
  */
 
 var express = require('express');
-var request = require('request');
-var crypto = require('crypto');
+var axios = require('axios');
 var cors = require('cors');
-var querystring = require('query-string');
 var cookieParser = require('cookie-parser');
+
+var crypto = require('node:crypto');
+var querystring = require('node:querystring');
 
 var client_id = 'bd16f32b8a5b4b5cbbfe82414ec2cf8c'; // your clientId
 var client_secret = 'dadbdbf6451445d8a04497182501a203'; // Your secret
 var redirect_uri = 'http://localhost:8888/callback'; // Your redirect uri
 
-
 const generateRandomString = (length) => {
   return crypto
-  .randomBytes(60)
-  .toString('hex')
-  .slice(0, length);
+    .randomBytes(60)
+    .toString('hex')
+    .slice(0, length);
 }
 
 var stateKey = 'spotify_auth_state';
@@ -31,11 +31,10 @@ var stateKey = 'spotify_auth_state';
 var app = express();
 
 app.use(express.static(__dirname + '/public'))
-   .use(cors())
-   .use(cookieParser());
+  .use(cors())
+  .use(cookieParser());
 
 app.get('/login', function(req, res) {
-
   var state = generateRandomString(16);
   res.cookie(stateKey, state);
 
@@ -51,14 +50,15 @@ app.get('/login', function(req, res) {
     }));
 });
 
-app.get('/callback', function(req, res) {
 
+app.get('/callback', function(req, res) {
   // your application requests refresh and access tokens
   // after checking the state parameter
-
   var code = req.query.code || null;
   var state = req.query.state || null;
   var storedState = req.cookies ? req.cookies[stateKey] : null;
+
+  console.log(state);
 
   if (state === null || state !== storedState) {
     res.redirect('/#' +
@@ -67,79 +67,70 @@ app.get('/callback', function(req, res) {
       }));
   } else {
     res.clearCookie(stateKey);
-    var authOptions = {
-      url: 'https://accounts.spotify.com/api/token',
-      form: {
+
+    axios.post('https://accounts.spotify.com/api/token', querystring.stringify({
         code: code,
         redirect_uri: redirect_uri,
         grant_type: 'authorization_code'
-      },
-      headers: {
-        'content-type': 'application/x-www-form-urlencoded',
-        Authorization: 'Basic ' + (new Buffer.from(client_id + ':' + client_secret).toString('base64'))
-      },
-      json: true
-    };
+      }), {
+        headers: {
+          'Content-Type': 'application/x-www-form-urlencoded',
+          'Authorization': 'Basic ' + Buffer.from(client_id + ':' + client_secret).toString('base64')
+        }
+      })
+      .then(response => {
+        var access_token = response.data.access_token;
+        var refresh_token = response.data.refresh_token;
 
-    request.post(authOptions, function(error, response, body) {
-      if (!error && response.statusCode === 200) {
+        axios.get('https://api.spotify.com/v1/me', {
+            headers: {
+              'Authorization': 'Bearer ' + access_token
+            }
+          })
+          .then(response => {
+            console.log(response.data);
+          })
+          .catch(error => {
+            console.error('Error fetching user data:', error);
+          });
 
-        var access_token = body.access_token,
-            refresh_token = body.refresh_token;
-
-        var options = {
-          url: 'https://api.spotify.com/v1/me',
-          headers: { 'Authorization': 'Bearer ' + access_token },
-          json: true
-        };
-
-        // use the access token to access the Spotify Web API
-        request.get(options, function(error, response, body) {
-          console.log(body);
-        });
-
-        // we can also pass the token to the browser to make requests from there
         res.redirect('/#' +
           querystring.stringify({
             access_token: access_token,
             refresh_token: refresh_token
           }));
-      } else {
+      })
+      .catch(error => {
+        console.error('Error exchanging code for token:', error);
         res.redirect('/#' +
           querystring.stringify({
             error: 'invalid_token'
           }));
-      }
-    });
+      });
   }
 });
 
 app.get('/refresh_token', function(req, res) {
-
   var refresh_token = req.query.refresh_token;
-  var authOptions = {
-    url: 'https://accounts.spotify.com/api/token',
-    headers: { 
-      'content-type': 'application/x-www-form-urlencoded',
-      'Authorization': 'Basic ' + (new Buffer.from(client_id + ':' + client_secret).toString('base64')) 
-    },
-    form: {
+
+  axios.post('https://accounts.spotify.com/api/token', querystring.stringify({
       grant_type: 'refresh_token',
       refresh_token: refresh_token
-    },
-    json: true
-  };
-
-  request.post(authOptions, function(error, response, body) {
-    if (!error && response.statusCode === 200) {
-      var access_token = body.access_token,
-          refresh_token = body.refresh_token;
+    }), {
+      headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Authorization': 'Basic ' + Buffer.from(client_id + ':' + client_secret).toString('base64')
+      }
+    })
+    .then(response => {
       res.send({
-        'access_token': access_token,
-        'refresh_token': refresh_token
+        'access_token': response.data.access_token,
+        'refresh_token': response.data.refresh_token
       });
-    }
-  });
+    })
+    .catch(error => {
+      console.error('Error refreshing token:', error);
+    });
 });
 
 console.log('Listening on 8888');
