@@ -28,16 +28,17 @@ axios.post('https://accounts.spotify.com/api/token', querystring.stringify({
     })
     .then(response => {
         // Handle successful response
-        var html = "<ul>\n";
+        var html = "<table>\n";
 
         const itemList = response.data.items;
         itemList.forEach(function (i) {
-          html += "<li><img src='" + i.images[0].url + "' width='100px'><div>" + i.name + "</div></li>\n";
+          html += "<tr><img src='" + i.images[0].url + "' width='100px'><div>" + i.name + "</div></tr>\n";
         });
 
-        html += "</ul>";
+        html += "</table>";
         
-        fs.writeFile('TEST.md', html, (err) => {
+        var markdown = fs.readFileSync('README.md');
+        fs.writeFile('TEST.md', markdown.replace("<Spotify Stats>", html), (err) => {
             if (err) {
                 console.error('Failed to write Markdown file:', err);
             } else {
