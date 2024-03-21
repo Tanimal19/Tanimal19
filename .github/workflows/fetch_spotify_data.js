@@ -41,13 +41,9 @@ async function main() {
   var topArtistHtml;
 
   if (topArtistList.length > 0) {
-    topArtistHtml = "<h4>Top Artists</h4><ol>\n";
-
     topArtistList.forEach(function (i) {
-      topArtistHtml += "<li>" + i.name + "</li>\n";
+      topArtistHtml += "<div><img width='60px' src='" i.images[0].url + "'><br>" + i.name + "</div>\n";
     });
-
-    topArtistHtml += "</ol>";
   }
 
   const url_track = 'https://api.spotify.com/v1/me/top/tracks?time_range=short_term&limit=10&offset=0';
@@ -55,35 +51,35 @@ async function main() {
   var topTrackHtml;
 
   if (topTrackList.length > 0) {
-    topTrackHtml = "<h4>Top Tracks</h4><ol>\n";
-
+    topTrackHtml = "<ol>\n";
     topTrackList.forEach(function (i) {
       topTrackHtml += "<li><div><strong>" + i.name + "</strong></div><div>";
-
       const artists = i.artists;
       artists.forEach(function (a) {
         topTrackHtml += a.name;
       });
-
       topTrackHtml += "</div>\n";
-
     });
-
     topTrackHtml += "</ol>";
   }
 
+
   // Modify Readme Content
-  const finalHtml = topArtistHtml + topTrackHtml;
-  var newData;
-  const data = fs.readFileSync('README.md', 'utf8');
-  const regex = /<div id="spotify">([\s\S]*?)<\/div>/;
-  const match = data.match(regex);
-    
-  if (match) {
-    newData = data.replace(match[0], `<div id="spotify">${finalHtml}</div>`);
+  var data = fs.readFileSync('README.md', 'utf8');
+  
+  const regex_art = /<div id="top-artist">([\s\S]*?)<\/div>/;
+  const match_art = data.match(regex_art);
+  if (match_art) {
+    data = data.replace(match_art[0], `<div id="top-artist">${topArtistHtml}</div>`);
+  }
+
+  const regex_track = /<div id="top-track">([\s\S]*?)<\/div>/;
+  const match_track = data.match(regex_art);
+  if (match_track) {
+    data = data.replace(match_track[0], `<div id="top-track">${topTrackHtml}</div>`);
   }
     
-  fs.writeFile('TEST.md', (newData ? newData : data), (err) => {
+  fs.writeFile('TEST.md', data, (err) => {
     if (err) {
       console.error('Failed to write Markdown file:', err);
     } else {
