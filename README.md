@@ -65,7 +65,7 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <br>
 <br>
 
-<div id="spotify-stats">
+<div id="spotify">
 </div>
 
 
