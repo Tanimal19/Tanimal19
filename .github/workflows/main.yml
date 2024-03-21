@@ -15,7 +15,7 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install express request cors query-string cookie-parser
+        run: npm install express axios cors cookie-parser
           
       - name: Update Spotify Playlist
         env:
