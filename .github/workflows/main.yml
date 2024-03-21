@@ -1,5 +1,7 @@
 name: Update Spotify Stats
 on:
+  schedule:
+    - cron: '0 0 * * 1'
   workflow_dispatch:
 
 jobs:
@@ -23,10 +25,10 @@ jobs:
           
       - name: Commit Readme
         run: |
-          git add TEST.md
+          git add README.md
           git config --global user.email "actions@github.com"
           git config --global user.name "GitHub Actions"
-          git commit -m "Update Spotify Stats" TEST.md
+          git commit -m "Update Spotify Stats" README.md
 
       - name: GitHub Push
         uses: ad-m/github-push-action@v0.6.0
