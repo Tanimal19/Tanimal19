@@ -81,25 +81,25 @@ my top artists and tracks for last 4 weeks 👇
 </td>
    <td id="top-track"><ol>
 <li><div><strong>SMILEY(Feat. BIBI)</strong></div>
-<div>YENABIBI</div></li><br>
+<div>YENABIBI</div></li>
 <li><div><strong>Talk that Talk</strong></div>
-<div>TWICE</div></li><br>
+<div>TWICE</div></li>
 <li><div><strong>Valentine Kiss</strong></div>
-<div>Tsukasa Hiiragi (CV: Kaori Fukuhara)</div></li><br>
+<div>Tsukasa Hiiragi (CV: Kaori Fukuhara)</div></li>
 <li><div><strong>Obsessed</strong></div>
-<div>Ayumu Imazu</div></li><br>
+<div>Ayumu Imazu</div></li>
 <li><div><strong>CHANGE</strong></div>
-<div>瘦子E.SO</div></li><br>
+<div>瘦子E.SO</div></li>
 <li><div><strong>而立</strong></div>
-<div>WeiBird</div></li><br>
+<div>WeiBird</div></li>
 <li><div><strong>Attention</strong></div>
-<div>NewJeans</div></li><br>
+<div>NewJeans</div></li>
 <li><div><strong>幹大事</strong></div>
-<div>頑童Mj116</div></li><br>
+<div>頑童Mj116</div></li>
 <li><div><strong>WAIT</strong></div>
-<div>瘦子E.SO</div></li><br>
+<div>瘦子E.SO</div></li>
 <li><div><strong>Perfect Night</strong></div>
-<div>LE SSERAFIM</div></li><br>
+<div>LE SSERAFIM</div></li>
 </ol></td>
   </tr>
 </table>
