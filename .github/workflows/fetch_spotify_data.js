@@ -58,7 +58,7 @@ async function main() {
       artists.forEach(function (a) {
         topTrackHtml += a.name;
       });
-      topTrackHtml += "</div></li><br>\n";
+      topTrackHtml += "</div></li>\n";
     });
     topTrackHtml += "</ol>";
   }
