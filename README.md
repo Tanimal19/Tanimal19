@@ -69,10 +69,12 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 
 <table>
  <tr>
+   <td></td>
     <td align="center"><strong>Top Artists</strong></td>
     <td align="center"><strong>Top Tracks</strong></td>
  </tr>
  <tr>
+   <td><img width="100px" src="https://github.com/Tanimal19/Tanimal19/blob/ff6cbe6aab68280f72ed4738b533460d34353873/icon/Spotify_Logo_RGB_Black.png"></td>
     <td id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br><strong>Aimer</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br><strong>NewJeans</strong></div><br>
@@ -101,7 +103,6 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <li><div><strong>Perfect Night</strong></div>
 <div>LE SSERAFIM</div>
 </ol></td>
-   <td><img width="100px" src="https://github.com/Tanimal19/Tanimal19/blob/ff6cbe6aab68280f72ed4738b533460d34353873/icon/Spotify_Logo_RGB_Black.png"></td>
  </tr>
 </table>
 
