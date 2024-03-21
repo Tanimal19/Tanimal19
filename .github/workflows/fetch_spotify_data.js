@@ -2,8 +2,8 @@ var axios = require('axios');
 var fs = require('fs');
 var querystring = require('node:querystring');
 
-var client_id = 'bd16f32b8a5b4b5cbbfe82414ec2cf8c'; // your clientId
-var client_secret = 'dadbdbf6451445d8a04497182501a203'; // Your secret
+var client_id = 'bd16f32b8a5b4b5cbbfe82414ec2cf8c';
+var client_secret = 'dadbdbf6451445d8a04497182501a203';
 
 var refresh_token = 'AQAhr3J9Z7c4wdKMuwxVQhNXjIVIWfgGuZuIiGTjm6RoqocPbsVcGQxa-7NfOC8t9-FIsMEg6N7Eky5H8V8wWSnonTL0Ewedn4DrGF7iXqVk89A4k6YWmLxi2Rm-9PqYlhg';
 
