@@ -74,7 +74,7 @@ async function main() {
   }
 
   const regex_track = /<div id="top-track">([\s\S]*?)<\/div>/;
-  const match_track = data.match(regex_art);
+  const match_track = data.match(regex_track);
   if (match_track) {
     data = data.replace(match_track[0], `<div id="top-track">${topTrackHtml}</div>`);
   }
