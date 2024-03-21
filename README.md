@@ -103,7 +103,9 @@ my top artists and tracks for last 4 weeks 👇
 </ol></td>
   </tr>
 </table>
-<img width="120px" src="https://github.com/Tanimal19/Tanimal19/blob/bf0a3a19f66ada166be4661cd923271218886fa4/icon/Spotify_Logo_CMYK_Green.png">
+<a href="https://open.spotify.com/">
+  <img width="120px" src="https://github.com/Tanimal19/Tanimal19/blob/bf0a3a19f66ada166be4661cd923271218886fa4/icon/Spotify_Logo_CMYK_Green.png">
+</a>
 
 <br>
 <br>
