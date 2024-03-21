@@ -1,4 +1,4 @@
-name: Update Spotify Playlist
+name: Fetch Spotify Data
 on:
   workflow_dispatch:
 
