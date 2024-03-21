@@ -82,7 +82,7 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br>NewJeans</div>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br>ヨルシカ</div>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br>Jay Chou</div>
-</div>
+</div id="top-artist">
     </td>
     <td>
       <div id="top-track"><ol>
@@ -116,7 +116,7 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <li><div><strong>幹大事</strong></div><div>頑童Mj116</div>
 <li><div><strong>WAIT</strong></div><div>瘦子E.SO</div>
 <li><div><strong>Perfect Night</strong></div><div>LE SSERAFIM</div>
-</ol></div>
+</ol></div id="top-artist">
     </td>
  </tr>
 </table>
