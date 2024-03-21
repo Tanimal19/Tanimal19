@@ -65,8 +65,20 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <br>
 <br>
 
-<div id="spotify">
-</div>
+<table>
+ <tr>
+    <td>Top Artists</td>
+    <td>Top Tracks</td>
+ </tr>
+ <tr>
+    <td>
+      <div id="top-artist"></div>
+    </td>
+    <td>
+      <div id="top-track"></div>
+    </td>
+ </tr>
+</table>
 
 
 > [!IMPORTANT]  
