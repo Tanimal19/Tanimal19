@@ -67,12 +67,12 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 
 <table>
  <tr>
-    <td>Top Artists</td>
-    <td>Top Tracks</td>
+    <td align="center"><strong>Top Artists</strong></td>
+    <td align="center"><strong>Top Tracks</strong></td>
  </tr>
  <tr>
     <td>
-      <div id="top-artist">undefined<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br>Vaundy</div>
+      <div id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br>Vaundy</div>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br>Aimer</div>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br>NewJeans</div>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br>ヨルシカ</div>
