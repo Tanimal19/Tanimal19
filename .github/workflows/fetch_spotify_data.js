@@ -70,13 +70,13 @@ async function main() {
   const regex_art = /<div id="top-artist">([\s\S]*?)<\/div>/;
   const match_art = data.match(regex_art);
   if (match_art) {
-    data = data.replace(match_art[0], `<div id="top-artist">${topArtistHtml}</div>`);
+    data = data.replace(match_art[0], `<div id="top-artist">${topArtistHtml}</div id="top-artist">`);
   }
 
   const regex_track = /<div id="top-track">([\s\S]*?)<\/div>/;
   const match_track = data.match(regex_track);
   if (match_track) {
-    data = data.replace(match_track[0], `<div id="top-track">${topTrackHtml}</div>`);
+    data = data.replace(match_track[0], `<div id="top-track">${topTrackHtml}</div id="top-track">`);
   }
     
   fs.writeFile('README.md', data, (err) => {
