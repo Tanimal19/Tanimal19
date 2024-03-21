@@ -20,5 +20,13 @@ jobs:
       - name: Update Spotify Playlist
         run: |
           node .github/workflows/fetch_spotify_data.js
+          
+      - name: Readme Replacer - Readme-Workflows
+        uses: Readme-Workflows/readme-replacer@v1.0.1
+        with:
+          TEMPLATE_FILE: ./TEMPLATE.md
+          COMMIT_FILE: ./TEST.md
+          CUSTOM_REPLACER_FILE: ./.github/Replacer.json
+          
             
             
