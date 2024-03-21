@@ -1,35 +1,52 @@
-const request = require('request');
+var axios = require('axios');
+var request = require('request');
+var querystring = require('node:querystring');
 
-// 定义API端点和播放列表ID
-const playlistEndpoint = 'https://api.spotify.com/v1/playlists/';
-const playlistId = '6Fdwfw86A0M5m5NtGm2j3d';  // 请将此替换为您的实际播放列表ID
-const market = 'TW';  // 可选：将此替换为您所在地区的市场代码
+var client_id = 'bd16f32b8a5b4b5cbbfe82414ec2cf8c'; // your clientId
+var client_secret = 'dadbdbf6451445d8a04497182501a203'; // Your secret
 
-// 定义您的访问令牌
-const accessToken = 'BQANgkpUZ6eNuLIyx-WkMqrDUJElgvP_SNG3lzFmwybPAmLvU2Eg29OtRoHDa7Dugp8WLgaOLeJKwc5YfdN7KFJR_-wNnVZt0AorRCCez2STRV6l5k08htthxQZnnVcCCHmmkiyldBrZeevLqQ-harT1EC3aAFtiaqWNrbZT9k1boE8i3L-0AJZf94tVG1X3WnX5rx5gCzGJ_G5gRrDDM51oLA';  // 请将此替换为您的实际访问令牌
+var refresh_token = 'AQCTjYUJltGy1dQnE5VAgYz6G02X7eFg2u6nlxlvVk5cOiVo9J_ceBVdEtwjigK-w03t-pi6FBUu78yQHf2RoUE6OuipWR3gXRIRwf-CuZxM-SVoDEmmlqGxrqzHF-kTd-M';
 
-// 构建请求头
-const headers = {
-  'Authorization': `Bearer ${accessToken}`
-};
+axios.post('https://accounts.spotify.com/api/token', querystring.stringify({
+    grant_type: 'refresh_token',
+    refresh_token: refresh_token
+}), {
+    headers: {
+        'Content-Type': 'application/x-www-form-urlencoded',
+        'Authorization': 'Basic ' + Buffer.from(client_id + ':' + client_secret).toString('base64')
+    }
+})
+.then(response => {
+    const access_token = response.data.access_token;
 
-// 发送GET请求获取播放列表数据
-request.get(`${playlistEndpoint}${playlistId}?market=${market}`, {headers}, (error, response, body) => {
-  if (error) {
-    console.error('Failed to fetch playlist:', error);
-    return;
-  }
+    const playlistEndpoint = 'https://api.spotify.com/v1/playlists/';
+    const playlistId = '6Fdwfw86A0M5m5NtGm2j3d';
+    const market = 'TW';
 
-  if (response.statusCode !== 200) {
-    console.error('Failed to fetch playlist:', response.statusCode);
-    return;
-  }
+    const headers = {
+        'Authorization': `Bearer ${access_token}`
+    };
 
-  const playlistData = JSON.parse(body);
-  console.log('Playlist Name:', playlistData.name);
-  console.log('Playlist Description:', playlistData.description);
-  console.log('Tracks:');
-  for (const track of playlistData.tracks.items) {
-    console.log('-', track.track.name);
-  }
+    request.get(`${playlistEndpoint}${playlistId}?market=${market}`, {headers}, (error, response, body) => {
+        if (error) {
+            console.error('Failed to fetch playlist:', error);
+            return;
+        }
+
+        if (response.statusCode !== 200) {
+            console.error('Failed to fetch playlist:', response.statusCode);
+            return;
+        }
+
+        const playlistData = JSON.parse(body);
+        console.log('Playlist Name:', playlistData.name);
+        console.log('Playlist Description:', playlistData.description);
+        console.log('Tracks:');
+        for (const track of playlistData.tracks.items) {
+            console.log('-', track.track.name);
+        }
+    });
+})
+.catch(error => {
+    console.error('Error refreshing token:', error);
 });
