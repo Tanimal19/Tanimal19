@@ -40,7 +40,7 @@ axios.post('https://accounts.spotify.com/api/token', querystring.stringify({
         const regex = /<div id="spotify">([\s\S]*?)<\/div>/;
         const match = data.match(regex);
         if (match) {
-             newData = data.replace(match, `<div id="spotify">${html}</div>`);
+             newData = data.replace(match[0], `<div id="spotify">${html}</div>`);
         }
 
         console.log(data);
