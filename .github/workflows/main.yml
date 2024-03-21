@@ -5,7 +5,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update_spotify_playlist:
+  update_spotify_stats:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -19,7 +19,7 @@ jobs:
       - name: Install dependencies
         run: npm install axios fs
           
-      - name: Update Spotify Playlist
+      - name: Update Spotify Stats
         run: |
           node .github/workflows/fetch_spotify_data.js
           
