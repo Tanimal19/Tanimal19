@@ -42,7 +42,7 @@ async function main() {
 
   if (topArtistList.length > 0) {
     topArtistList.forEach(function (i) {
-      topArtistHtml += "<div><img width='60px' src='" i.images[0].url + "'><br>" + i.name + "</div>\n";
+      topArtistHtml += "<div><img width='60px' src='" + i.images[0].url + "'><br>" + i.name + "</div>\n";
     });
   }
 
