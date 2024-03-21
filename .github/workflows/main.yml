@@ -15,12 +15,10 @@ jobs:
           node-version: '14'
 
       - name: Install dependencies
-        run: npm install request axios
+        run: npm install axios
           
       - name: Update Spotify Playlist
-        env:
-          SPOTIFY_ACCESS_TOKEN: ${{ secrets.SPOTIFY_ACCESS_TOKEN }}
         run: |
-          node .github/workflows/update_spotify_playlist.js
+          node .github/workflows/fetch_spotify_data.js
             
             
