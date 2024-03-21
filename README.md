@@ -65,6 +65,9 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <br>
 <br>
 
+<div id="spotify-stats">
+</div>
+
 
 > [!IMPORTANT]  
 > Gif is from this good website very good 👉 https://walfiegif.wordpress.com/
