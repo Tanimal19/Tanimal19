@@ -1,4 +1,5 @@
 var axios = require('axios');
+var fs = require('fs');
 var querystring = require('node:querystring');
 
 var client_id = 'bd16f32b8a5b4b5cbbfe82414ec2cf8c'; // your clientId
@@ -27,7 +28,22 @@ axios.post('https://accounts.spotify.com/api/token', querystring.stringify({
     })
     .then(response => {
         // Handle successful response
-        console.log('Playlist items:', response.data.items);
+        var html = "<ul>\n";
+
+        const itemList = response.data.items;
+        itemList.forEach(function (i) {
+          html += "<li><img src='" + i.images[0].url + "' width='100px'><div>" + i.name + "</div></li>\n";
+        });
+
+        html += "</ul>";
+        
+        fs.writeFile('TEST.md', html, (err) => {
+            if (err) {
+                console.error('Failed to write Markdown file:', err);
+            } else {
+                console.log('Markdown file has been written successfully!');
+            }
+        });
     })
     .catch(error => {
         // Handle error
