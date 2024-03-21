@@ -66,7 +66,7 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <br>
 
 #### Music 🎵
-<div align="left">
+
 <table>
  <tr>
     <td align="center"><strong>Top Artists</strong></td>
@@ -80,10 +80,11 @@ I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</stron
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
 </td">
    <td id="top-track"></td>
+   <td><img width="100px" src="https://github.com/Tanimal19/Tanimal19/blob/ff6cbe6aab68280f72ed4738b533460d34353873/icon/Spotify_Logo_RGB_Black.png"></td>
  </tr>
 </table>
-<img width="100px" src="https://github.com/Tanimal19/Tanimal19/blob/ff6cbe6aab68280f72ed4738b533460d34353873/icon/Spotify_Logo_RGB_Black.png">
-</div>
+
+
 
 
 > [!IMPORTANT]  
