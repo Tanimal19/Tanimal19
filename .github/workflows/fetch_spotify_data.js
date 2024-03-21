@@ -79,7 +79,7 @@ async function main() {
     data = data.replace(match_track[0], `<div id="top-track">${topTrackHtml}</div>`);
   }
     
-  fs.writeFile('TEST.md', data, (err) => {
+  fs.writeFile('README.md', data, (err) => {
     if (err) {
       console.error('Failed to write Markdown file:', err);
     } else {
