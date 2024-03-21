@@ -42,8 +42,11 @@ axios.post('https://accounts.spotify.com/api/token', querystring.stringify({
         if (match) {
              newData = data.replace(match, `<div id="spotify">${html}</div>`);
         }
+
+        console.log(data);
+        console.log(newData);
         
-        fs.writeFile('TEST.md', newData ? newData : data, (err) => {
+        fs.writeFile('TEST.md', (newData ? newData:data), (err) => {
             if (err) {
                 console.error('Failed to write Markdown file:', err);
             } else {
