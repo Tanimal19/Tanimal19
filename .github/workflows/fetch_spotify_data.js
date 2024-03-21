@@ -70,7 +70,7 @@ async function main() {
   const regex_art = /<td id="top-artist">([\s\S]*?)<\/td>/;
   const match_art = data.match(regex_art);
   if (match_art) {
-    data = data.replace(match_art[0], `<td id="top-artist">${topArtistHtml}</td">`);
+    data = data.replace(match_art[0], `<td id="top-artist">${topArtistHtml}</td>`);
   }
 
   const regex_track = /<td id="top-track">([\s\S]*?)<\/td>/;
