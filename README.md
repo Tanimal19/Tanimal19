@@ -29,43 +29,38 @@
 
 ### About Me
 Ordinary CSIE student in National Taiwan University  
-My ultimate goal of life is **Chill** 🫠
 
-carrot ❌ rice cracker ✔️  
-dog&cat ❌ Alolan Vulpix ✔️  
-I use both <strong>Windows</strong>(playing games) and <strong>Arch Linux</strong>(coding) btw 😉
+| Nope ❌ | Nice ✔️ |
+| :---: | :---: |
+| carrot | rice cracker |
+| dog or cat | Alolan Vulpix |
+| dark mode | burn my eyes |
+
+
+I use both **Windows**(playing games) and **Arch**(coding) btw 😉
 <br>
 <br>
 
 #### Things I slightly know
 <div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/python" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/html5" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/css3" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/javascript" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/electron" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/c" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/html5" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/css3" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/electron" />
 </div>
+<br>
 
-#### Things I still learning
-<div>
-  <img height="32" width="32" src="https://cdn.simpleicons.org/c++" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/unity/000" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/react" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/next.js" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/pytorch" />
-  <img height="32" width="32" src="https://cdn.simpleicons.org/tensorflow" />
-</div>
-
-<!---
-#### Works I've done
-> You want my treasure, you can have it.  
-> I left everything I gathered together in my **github repos**. Now, you just have to find it.
---->
+#### Things I plan to do & learn
+- Keep building my voice markdown editor - [Victor](https://github.com/Tanimal19/Victor)
+- Build an **EPIC** personal website (maybe using `next.js` and `vercel`)
+- Learn how to training model with TensorFlow
+- Making a game about **Haskap Ninja** (You can google what is haskap 🫐) (maybe using `Unity`)
 
 <br>
 
-#### Music
+#### Music I listen
 my top artists and tracks for last 4 weeks 👇
 <table>
   <tr>
@@ -112,7 +107,7 @@ my top artists and tracks for last 4 weeks 👇
 <br>
 
 > [!IMPORTANT]
-> Gif from this good website very good 👉 https://walfiegif.wordpress.com/
+> Gif from this EPIC website 👉 https://walfiegif.wordpress.com/
 
 <!---
 Tanimal19/Tanimal19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
