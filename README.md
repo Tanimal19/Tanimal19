@@ -112,7 +112,7 @@ my top artists and tracks for last 4 weeks 👇
 <br>
 
 > [!IMPORTANT]
-> Gif is from this good website very good 👉 https://walfiegif.wordpress.com/
+> Gif from this good website very good 👉 https://walfiegif.wordpress.com/
 
 <!---
 Tanimal19/Tanimal19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
