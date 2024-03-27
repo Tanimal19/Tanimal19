@@ -36,8 +36,9 @@ Ordinary CSIE student in National Taiwan University
 | dog or cat | Alolan Vulpix |
 | dark mode | burn my eyes |
 
+Interest: video games, music, coding, basketball
 
-I use both **Windows**(playing games) and **Arch**(coding) btw 😉
+Btw, I use both **Windows**(playing games) and **Arch**(coding)
 <br>
 <br>
 
