@@ -73,29 +73,29 @@ my top artists and tracks for last 4 weeks 👇
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br><strong>Aimer</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br><strong>NewJeans</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb73f96bdf146d008680149954'><br><strong>LE SSERAFIM</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc'><br><strong>Fujii Kaze</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>SMILEY(Feat. BIBI)</strong></div>
-<div>YENABIBI</div></li>
 <li><div><strong>CHANGE</strong></div>
 <div>瘦子E.SO</div></li>
+<li><div><strong>SMILEY(Feat. BIBI)</strong></div>
+<div>YENABIBI</div></li>
+<li><div><strong>Miniskirt</strong></div>
+<div>AOA</div></li>
 <li><div><strong>而立</strong></div>
 <div>WeiBird</div></li>
-<li><div><strong>Obsessed</strong></div>
-<div>Ayumu Imazu</div></li>
 <li><div><strong>WAIT</strong></div>
 <div>瘦子E.SO</div></li>
+<li><div><strong>Obsessed</strong></div>
+<div>Ayumu Imazu</div></li>
 <li><div><strong>Attention</strong></div>
 <div>NewJeans</div></li>
 <li><div><strong>Talk that Talk</strong></div>
 <div>TWICE</div></li>
 <li><div><strong>幹大事</strong></div>
 <div>頑童Mj116</div></li>
-<li><div><strong>Perfect Night</strong></div>
-<div>LE SSERAFIM</div></li>
-<li><div><strong>OMG</strong></div>
-<div>NewJeans</div></li>
+<li><div><strong>融解sink</strong></div>
+<div>Vaundy</div></li>
 </ol></td>
   </tr>
 </table>
