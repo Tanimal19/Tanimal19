@@ -1,3 +1,45 @@
+#### Music I listen
+my top artists and tracks for last 4 weeks 👇
+<table>
+  <tr>
+    <td align="center"><strong>Top Artists</strong></td>
+    <td align="center"><strong>Top Tracks</strong></td>
+  </tr>
+  <tr>
+    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br><strong>Aimer</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br><strong>NewJeans</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc'><br><strong>Fujii Kaze</strong></div><br>
+</td>
+   <td id="top-track"><ol>
+<li><div><strong>CHANGE</strong></div>
+<div>瘦子E.SO</div></li>
+<li><div><strong>SMILEY(Feat. BIBI)</strong></div>
+<div>YENABIBI</div></li>
+<li><div><strong>Miniskirt</strong></div>
+<div>AOA</div></li>
+<li><div><strong>而立</strong></div>
+<div>WeiBird</div></li>
+<li><div><strong>WAIT</strong></div>
+<div>瘦子E.SO</div></li>
+<li><div><strong>Obsessed</strong></div>
+<div>Ayumu Imazu</div></li>
+<li><div><strong>Attention</strong></div>
+<div>NewJeans</div></li>
+<li><div><strong>Talk that Talk</strong></div>
+<div>TWICE</div></li>
+<li><div><strong>幹大事</strong></div>
+<div>頑童Mj116</div></li>
+<li><div><strong>融解sink</strong></div>
+<div>Vaundy</div></li>
+</ol></td>
+  </tr>
+</table>
+<a href="https://open.spotify.com/">
+  <img width="120px" src="https://github.com/Tanimal19/Tanimal19/blob/bf0a3a19f66ada166be4661cd923271218886fa4/icon/Spotify_Logo_CMYK_Green.png">
+</a>
+
 <div align="center">
   <br>
   <img width="100px" src="https://walfiegif.files.wordpress.com/2023/07/out-transparent-34.gif">&emsp;&emsp;
