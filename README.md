@@ -69,33 +69,33 @@ my top artists and tracks for last 4 weeks 👇
     <td align="center"><strong>Top Tracks</strong></td>
   </tr>
   <tr>
-    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br><strong>Aimer</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
+    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br><strong>Aimer</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br><strong>NewJeans</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>CHANGE</strong></div>
-<div>瘦子E.SO</div></li>
 <li><div><strong>Miniskirt</strong></div>
 <div>AOA</div></li>
+<li><div><strong>CHANGE</strong></div>
+<div>瘦子E.SO</div></li>
 <li><div><strong>而立</strong></div>
 <div>WeiBird</div></li>
-<li><div><strong>SMILEY(Feat. BIBI)</strong></div>
-<div>YENABIBI</div></li>
-<li><div><strong>WAIT</strong></div>
-<div>瘦子E.SO</div></li>
+<li><div><strong>God's Plan</strong></div>
+<div>Drake</div></li>
 <li><div><strong>Attention</strong></div>
 <div>NewJeans</div></li>
-<li><div><strong>Obsessed</strong></div>
-<div>Ayumu Imazu</div></li>
-<li><div><strong>Talk that Talk</strong></div>
-<div>TWICE</div></li>
+<li><div><strong>WAIT</strong></div>
+<div>瘦子E.SO</div></li>
 <li><div><strong>融解sink</strong></div>
 <div>Vaundy</div></li>
-<li><div><strong>幹大事</strong></div>
-<div>頑童Mj116</div></li>
+<li><div><strong>目不转睛</strong></div>
+<div>Yitai Wang</div></li>
+<li><div><strong>Cookie</strong></div>
+<div>NewJeans</div></li>
+<li><div><strong>Just Dance</strong></div>
+<div>Lady GagaColby O'Donis</div></li>
 </ol></td>
   </tr>
 </table>
