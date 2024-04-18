@@ -54,8 +54,7 @@ Btw, I use both **Windows**(playing games) and **Arch**(coding)
 <br>
 
 #### Things I plan to do & learn
-- Keep building my voice markdown editor - [Victor](https://github.com/Tanimal19/Victor)
-- Build an **EPIC** personal website (maybe using `next.js` and `vercel`)
+- Build my **EPIC** personal website (maybe using `next.js` and `react`)
 - Learn how to training model with TensorFlow
 - Making a game about **Haskap Ninja**🫐 (maybe using `Unity`)
 
