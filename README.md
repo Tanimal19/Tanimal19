@@ -33,8 +33,7 @@ Classic CSIE student in National Taiwan University
 | Nope ❌ | Nice ✔️ |
 | :---: | :---: |
 | carrot | rice cracker |
-| dog or cat | Alolan Vulpix |
-| dark mode | burn my eyes |
+| dog or cat | pokemon |
 
 When not working: playing video games, listening music, coding, playing basketball
 
