@@ -57,7 +57,7 @@ Btw, I use both **Windows**(playing games) and **Arch**(coding)
 - Keep building my voice markdown editor - [Victor](https://github.com/Tanimal19/Victor)
 - Build an **EPIC** personal website (maybe using `next.js` and `vercel`)
 - Learn how to training model with TensorFlow
-- Making a game about **Haskap Ninja** (You can google what is haskap 🫐) (maybe using `Unity`)
+- Making a game about **Haskap Ninja**🫐 (maybe using `Unity`)
 
 <br>
 
