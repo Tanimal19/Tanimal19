@@ -14,7 +14,7 @@
     <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/twitter.svg">
   </a>
   &ensp;
-  <a href="mailto:tanimal1912@gmail.com" target="_blank">
+  <a href="mailto:poyuncheng.bob@gmail.com" target="_blank">
     <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/gmail.svg">
   </a>
   &ensp;
