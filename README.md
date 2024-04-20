@@ -28,7 +28,7 @@
 <br>
 
 ### About Me
-Classic CSIE student in National Taiwan University  
+computer science student in National Taiwan University  
 
 | Nope ❌ | Nice ✔️ |
 | :---: | :---: |
