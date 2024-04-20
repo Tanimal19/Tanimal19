@@ -37,7 +37,7 @@ computer science student in National Taiwan University
 
 When not working: playing video games, listening music, coding, playing basketball
 
-Btw, I use both **Windows**(playing games) and **Arch**(coding)
+Btw, I use both **Windows**(playing games, coding) and **Arch**(coding)
 <br>
 <br>
 
