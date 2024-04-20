@@ -48,7 +48,11 @@ Btw, I use both **Windows**(playing games) and **Arch**(coding)
   <img height="40" width="40" src="https://cdn.simpleicons.org/html5" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/css3" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/typescript" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/electron" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/react" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
+  <img height="40" width="40" src="https://cdn.simpleicons.org/next.js" />
 </div>
 <br>
 
