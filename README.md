@@ -29,7 +29,7 @@
 
 ### About Me
 💻 Computer Science student at National Taiwan University  
-❤️ gaming, music, coding, basketball   
+❤️ coding, video games, music, basketball   
 <br>
 
 #### Things I slightly know
