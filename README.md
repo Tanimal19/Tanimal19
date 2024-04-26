@@ -23,7 +23,6 @@
   </a>
   <br>
   <br>
-  My blog 👉 https://tanimal19.github.io  
 </div>
 <br>
 
