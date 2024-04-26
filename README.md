@@ -29,14 +29,7 @@
 
 ### About Me
 computer science student in National Taiwan University  
-
-| Nope ❌ | Nice ✔️ |
-| :---: | :---: |
-| carrot | rice cracker |
-| dog or cat | pokemon |
-
 When not working: playing video games, listening music, coding, playing basketball
-
 Btw, I use both **Windows**(playing games, coding) and **Arch**(coding)
 <br>
 <br>
@@ -54,13 +47,6 @@ Btw, I use both **Windows**(playing games, coding) and **Arch**(coding)
   <img height="40" width="40" src="https://cdn.simpleicons.org/tailwindcss" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/next.js" />
 </div>
-<br>
-
-#### Things I plan to do & learn
-- Build my **EPIC** personal website (maybe using `next.js` and `react`)
-- Learn how to training model with TensorFlow
-- Making a game about **Haskap Ninja**🫐 (maybe using `Unity`)
-
 <br>
 
 #### Music I listen
