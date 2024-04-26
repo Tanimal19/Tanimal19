@@ -29,9 +29,8 @@
 
 ### About Me
 computer science student in National Taiwan University  
-When not working: playing video games, listening music, coding, playing basketball
-Btw, I use both **Windows**(playing games, coding) and **Arch**(coding)
-<br>
+When not working: gaming, music, coding, basketball  
+Btw, I use both **Windows** and **Arch**  
 <br>
 
 #### Things I slightly know
