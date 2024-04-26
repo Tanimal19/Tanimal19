@@ -28,9 +28,8 @@
 <br>
 
 ### About Me
-computer science student in National Taiwan University  
-When not working: gaming, music, coding, basketball  
-Btw, I use both **Windows** and **Arch**  
+💻 Computer Science student at National Taiwan University  
+❤️ gaming, music, coding, basketball   
 <br>
 
 #### Things I slightly know
