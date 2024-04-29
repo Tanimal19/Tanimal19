@@ -54,33 +54,33 @@ my top artists and tracks for last 4 weeks 👇
     <td align="center"><strong>Top Tracks</strong></td>
   </tr>
   <tr>
-    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br><strong>Aimer</strong></div><br>
+    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc'><br><strong>Fujii Kaze</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf5d2200231e6ad75e8485476'><br><strong>NewJeans</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br><strong>Aimer</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>Miniskirt</strong></div>
-<div>AOA</div></li>
 <li><div><strong>Magnetic</strong></div>
 <div>ILLIT</div></li>
 <li><div><strong>Jimmy Cooks (feat. 21 Savage)</strong></div>
 <div>Drake21 Savage</div></li>
-<li><div><strong>God's Plan</strong></div>
-<div>Drake</div></li>
 <li><div><strong>Attention</strong></div>
 <div>NewJeans</div></li>
-<li><div><strong>CHANGE</strong></div>
-<div>瘦子E.SO</div></li>
-<li><div><strong>Cruel Summer</strong></div>
-<div>Taylor Swift</div></li>
-<li><div><strong>Worth It (feat. Kid Ink)</strong></div>
-<div>Fifth HarmonyKid Ink</div></li>
-<li><div><strong>Just Dance</strong></div>
-<div>Lady GagaColby O'Donis</div></li>
+<li><div><strong>God's Plan</strong></div>
+<div>Drake</div></li>
 <li><div><strong>Praise The Lord (Da Shine) (feat. Skepta)</strong></div>
 <div>A$AP RockySkepta</div></li>
+<li><div><strong>Cruel Summer</strong></div>
+<div>Taylor Swift</div></li>
+<li><div><strong>Miniskirt</strong></div>
+<div>AOA</div></li>
+<li><div><strong>This Is What You Came For</strong></div>
+<div>Calvin HarrisRihanna</div></li>
+<li><div><strong>Laid Back Journey</strong></div>
+<div>キミのね</div></li>
+<li><div><strong>幹大事</strong></div>
+<div>頑童Mj116</div></li>
 </ol></td>
   </tr>
 </table>
