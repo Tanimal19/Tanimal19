@@ -31,9 +31,7 @@
 ❤️ coding, video games, music, basketball   
 <br>
 
-#### Things I slightly know
 <div>
-  <img height="40" width="40" src="https://cdn.simpleicons.org/c" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/html5" />
   <img height="40" width="40" src="https://cdn.simpleicons.org/css3" />
@@ -46,7 +44,8 @@
 </div>
 <br>
 
-#### Music I listen
+---
+
 my top artists and tracks for last 4 weeks 👇
 <table>
   <tr>
