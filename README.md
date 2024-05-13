@@ -53,31 +53,31 @@ my top artists and tracks for last 4 weeks 👇
     <td align="center"><strong>Top Tracks</strong></td>
   </tr>
   <tr>
-    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
+    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc'><br><strong>Fujii Kaze</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb892e373e979d320b1c02cce7'><br><strong>Aimer</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb5e37b7151b124c164a15d4db'><br><strong>しゃろう</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36'><br><strong>YOASOBI</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>Laid Back Journey</strong></div>
 <div>キミのね</div></li>
-<li><div><strong>Attention</strong></div>
-<div>NewJeans</div></li>
+<li><div><strong>なかよしセンセーション</strong></div>
+<div>ユニ (CV: 小原好美)チエル (CV: 佐倉綾音)クロエ (CV: 種﨑敦美)</div></li>
 <li><div><strong>Nonstop</strong></div>
 <div>Drake</div></li>
-<li><div><strong>Jimmy Cooks (feat. 21 Savage)</strong></div>
-<div>Drake21 Savage</div></li>
-<li><div><strong>Praise The Lord (Da Shine) (feat. Skepta)</strong></div>
-<div>A$AP RockySkepta</div></li>
+<li><div><strong>Attention</strong></div>
+<div>NewJeans</div></li>
 <li><div><strong>Spiral</strong></div>
 <div>明透</div></li>
-<li><div><strong>Magnetic</strong></div>
-<div>ILLIT</div></li>
-<li><div><strong>OMG</strong></div>
-<div>NewJeans</div></li>
 <li><div><strong>幹大事</strong></div>
 <div>頑童Mj116</div></li>
+<li><div><strong>2:23 AM</strong></div>
+<div>しゃろう</div></li>
+<li><div><strong>Praise The Lord (Da Shine) (feat. Skepta)</strong></div>
+<div>A$AP RockySkepta</div></li>
+<li><div><strong>Jimmy Cooks (feat. 21 Savage)</strong></div>
+<div>Drake21 Savage</div></li>
 <li><div><strong>失戀陣線聯盟</strong></div>
 <div>Grasshopper</div></li>
 </ol></td>
