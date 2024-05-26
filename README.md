@@ -1,31 +1,3 @@
-<div align="center">
-  <br>
-  <img width="100px" src="https://walfiegif.files.wordpress.com/2023/07/out-transparent-34.gif">&emsp;&emsp;
-  <img src="https://github.com/Tanimal19/Tanimal19/blob/6b8a7463b76ce2431b51721b25e96f950864cb7c/Greeting.png" height="100px">&emsp;&emsp;
-  <img width="100px" src="https://static.wikia.nocookie.net/pokelist/images/8/85/Alolan_Vulpix.png/revision/latest/scale-to-width-down/230?cb=20160903134413">
-  <br>
-  <br>
-  <br>
-  <a href="https://github.com/Tanimal19" target="_blank">
-    <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/github.svg">
-  </a>
-  &ensp;
-  <a href="https://twitter.com" target="_blank">
-    <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/twitter.svg">
-  </a>
-  &ensp;
-  <a href="mailto:poyuncheng.bob@gmail.com" target="_blank">
-    <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/gmail.svg">
-  </a>
-  &ensp;
-  <a href="https://www.linkedin.com" target="_blank">
-    <img height="25px" src="https://github.com/Tanimal19/Tanimal19/blob/0a6f7d241fc789f1864fbaf08038ddccce5f27d5/icon/linkedin.svg">
-  </a>
-  <br>
-  <br>
-</div>
-<br>
-
 ### About Me
 💻 Computer Science student at National Taiwan University  
 ❤️ coding, video games, music, basketball   
