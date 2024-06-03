@@ -26,10 +26,10 @@ my top artists and tracks for last 4 weeks 👇
   </tr>
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb104822dfaac494e992c7e3f6'><br><strong>Vaundy</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc752bbed5fc57885ad929e31'><br><strong>Aimer</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb5e37b7151b124c164a15d4db'><br><strong>しゃろう</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebd875f9cc75a419cb743016de'><br><strong>Mayday</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/5bb443424a1ad71603c43d67f5af1a04da6bb3c8'><br><strong>One Direction</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>なかよしセンセーション</strong></div>
@@ -38,20 +38,20 @@ my top artists and tracks for last 4 weeks 👇
 <div>One Direction</div></li>
 <li><div><strong>Nonstop</strong></div>
 <div>Drake</div></li>
-<li><div><strong>Laid Back Journey</strong></div>
-<div>キミのね</div></li>
+<li><div><strong>3:03 PM</strong></div>
+<div>しゃろう</div></li>
 <li><div><strong>幹大事</strong></div>
 <div>頑童Mj116</div></li>
-<li><div><strong>Spiral</strong></div>
-<div>明透</div></li>
+<li><div><strong>Shuwashuwa honey lemon 350ml</strong></div>
+<div>しゃろう</div></li>
+<li><div><strong>光れ</strong></div>
+<div>あたらよ</div></li>
 <li><div><strong>Miniskirt</strong></div>
 <div>AOA</div></li>
-<li><div><strong>スカー</strong></div>
-<div>Tatsuya Kitani</div></li>
-<li><div><strong>God's Plan</strong></div>
-<div>Drake</div></li>
-<li><div><strong>融解sink</strong></div>
-<div>Vaundy</div></li>
+<li><div><strong>You and Me</strong></div>
+<div>しゃろう</div></li>
+<li><div><strong>Cassette Tape Dream</strong></div>
+<div>しゃろう</div></li>
 </ol></td>
   </tr>
 </table>
