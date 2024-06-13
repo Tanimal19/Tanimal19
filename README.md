@@ -1,6 +1,6 @@
 ### About Me
-💻 study at National Taiwan University  
-❤️ coding, video games, music, basketball   
+study at National Taiwan University  
+coding, video games, music, basketball   
 <br>
 
 <div>
