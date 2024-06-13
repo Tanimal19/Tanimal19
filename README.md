@@ -3,13 +3,6 @@ study at National Taiwan University
 coding, video games, music, basketball   
 <br>
 
-<div>
-  <img height="40" width="40" src="https://cdn.simpleicons.org/c" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/python" />
-  <img height="40" width="40" src="https://cdn.simpleicons.org/javascript" />
-</div>
-<br>
-
 ---
 
 my top artists and tracks for last 4 weeks 👇
