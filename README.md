@@ -46,13 +46,6 @@ my top artists and tracks for last 4 weeks 👇
   <img width="120px" src="https://github.com/Tanimal19/Tanimal19/blob/bf0a3a19f66ada166be4661cd923271218886fa4/icon/Spotify_Logo_CMYK_Green.png">
 </a>
 
-<br>
-<br>
-<br>
-
-> [!IMPORTANT]
-> Gif from this EPIC website 👉 https://walfiegif.wordpress.com/
-
 <!---
 Tanimal19/Tanimal19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
