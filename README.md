@@ -13,32 +13,32 @@ my top artists and tracks for last 4 weeks 👇
   </tr>
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc752bbed5fc57885ad929e31'><br><strong>Aimer</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb7230f91cc46fb48d4c05e70a'><br><strong>Atarayo</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc'><br><strong>Fujii Kaze</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36'><br><strong>YOASOBI</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>光れ</strong></div>
-<div>Atarayo</div></li>
 <li><div><strong>Houdini</strong></div>
 <div>Eminem</div></li>
-<li><div><strong>2:23 AM</strong></div>
-<div>しゃろう</div></li>
+<li><div><strong>Supernatural</strong></div>
+<div>NewJeans</div></li>
+<li><div><strong>光れ</strong></div>
+<div>Atarayo</div></li>
+<li><div><strong>現実という名の怪物と戦う者たち</strong></div>
+<div>Yu Takahashi</div></li>
+<li><div><strong>Lose Yourself</strong></div>
+<div>Eminem</div></li>
 <li><div><strong>Not Like Us</strong></div>
 <div>Kendrick Lamar</div></li>
 <li><div><strong>HUMBLE.</strong></div>
 <div>Kendrick Lamar</div></li>
 <li><div><strong>Bubble Gum</strong></div>
 <div>NewJeans</div></li>
-<li><div><strong>Lose Yourself</strong></div>
-<div>Eminem</div></li>
-<li><div><strong>il vento d'oro</strong></div>
-<div>Yugo Kanno</div></li>
-<li><div><strong>Nonstop</strong></div>
-<div>Drake</div></li>
-<li><div><strong>Pastel</strong></div>
-<div>Moe ShopSnail's House</div></li>
+<li><div><strong>After Rain</strong></div>
+<div>Aimer</div></li>
+<li><div><strong>Ni**as In Paris</strong></div>
+<div>JAY-ZKanye West</div></li>
 </ol></td>
   </tr>
 </table>
