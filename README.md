@@ -1,6 +1,7 @@
-### Hello, I'm Tanimal(19)
+### Hello, I'm Tanimal
 study at National Taiwan University  
 coding, video games, music, basketball  
+https://bobcheng.vercel.app/  
 <br>
 
 ---
