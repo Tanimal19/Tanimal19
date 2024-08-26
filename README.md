@@ -22,24 +22,24 @@ my top artists and tracks for last 4 weeks 👇
    <td id="top-track"><ol>
 <li><div><strong>After LIKE</strong></div>
 <div>IVE</div></li>
-<li><div><strong>Dance The Night</strong></div>
-<div>Dua Lipa</div></li>
 <li><div><strong>On A Ride</strong></div>
 <div>Red Velvet</div></li>
+<li><div><strong>Dance The Night</strong></div>
+<div>Dua Lipa</div></li>
+<li><div><strong>好久不見</strong></div>
+<div>Jay Chou</div></li>
 <li><div><strong>러시안 룰렛 Russian Roulette</strong></div>
 <div>Red Velvet</div></li>
+<li><div><strong>我不配</strong></div>
+<div>Jay Chou</div></li>
 <li><div><strong>Feelin’ Go(o)d</strong></div>
 <div>Fujii Kaze</div></li>
 <li><div><strong>Houdini</strong></div>
 <div>Eminem</div></li>
-<li><div><strong>Queendom</strong></div>
-<div>Red Velvet</div></li>
-<li><div><strong>我不配</strong></div>
-<div>Jay Chou</div></li>
+<li><div><strong>一切變得稀里糊塗</strong></div>
+<div>等一下就回家</div></li>
 <li><div><strong>Bad Boy</strong></div>
 <div>Red Velvet</div></li>
-<li><div><strong>Flamingo</strong></div>
-<div>Kenshi Yonezu</div></li>
 </ol></td>
   </tr>
 </table>
