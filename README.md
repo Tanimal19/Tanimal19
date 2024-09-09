@@ -15,31 +15,31 @@ my top artists and tracks for last 4 weeks 👇
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb23241889efb57a4ce8338932'><br><strong>Aimer</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebef32a08060d7d44c094aa1b0'><br><strong>GALI</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebef32a08060d7d44c094aa1b0'><br><strong>GALI</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
 </td>
    <td id="top-track"><ol>
+<li><div><strong>MURDERTHISBEAT</strong></div>
+<div>GALIBrAnTB白景屹KnowKnow李大奔</div></li>
+<li><div><strong>好久不見</strong></div>
+<div>Jay Chou</div></li>
 <li><div><strong>After LIKE</strong></div>
 <div>IVE</div></li>
-<li><div><strong>好久不見</strong></div>
+<li><div><strong>我不配</strong></div>
 <div>Jay Chou</div></li>
 <li><div><strong>On A Ride</strong></div>
 <div>Red Velvet</div></li>
 <li><div><strong>Dance The Night</strong></div>
 <div>Dua Lipa</div></li>
-<li><div><strong>MURDERTHISBEAT</strong></div>
-<div>GALIBrAnTB白景屹KnowKnow李大奔</div></li>
-<li><div><strong>我不配</strong></div>
-<div>Jay Chou</div></li>
-<li><div><strong>一切變得稀里糊塗</strong></div>
-<div>等一下就回家</div></li>
 <li><div><strong>All Star</strong></div>
 <div>Smash Mouth</div></li>
+<li><div><strong>一切變得稀里糊塗</strong></div>
+<div>等一下就回家</div></li>
+<li><div><strong>PUPPET SHOW</strong></div>
+<div>XG</div></li>
 <li><div><strong>阿那亚Aranya</strong></div>
 <div>GALI</div></li>
-<li><div><strong>러시안 룰렛 Russian Roulette</strong></div>
-<div>Red Velvet</div></li>
 </ol></td>
   </tr>
 </table>
