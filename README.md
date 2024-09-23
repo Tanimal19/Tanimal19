@@ -14,8 +14,8 @@ my top artists and tracks for last 4 weeks 👇
   </tr>
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb23241889efb57a4ce8338932'><br><strong>Aimer</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebef32a08060d7d44c094aa1b0'><br><strong>GALI</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb38df323a9b0d7880ae59590b'><br><strong>結束バンド</strong></div><br>
 </td>
@@ -24,22 +24,22 @@ my top artists and tracks for last 4 weeks 👇
 <div>GALIBrAnTB白景屹KnowKnow李大奔</div></li>
 <li><div><strong>好久不見</strong></div>
 <div>Jay Chou</div></li>
-<li><div><strong>After LIKE</strong></div>
-<div>IVE</div></li>
-<li><div><strong>All Star</strong></div>
-<div>Smash Mouth</div></li>
 <li><div><strong>Everybody (Backstreet's Back) - Radio Edit</strong></div>
 <div>Backstreet Boys</div></li>
-<li><div><strong>我不配</strong></div>
-<div>Jay Chou</div></li>
-<li><div><strong>一切變得稀里糊塗</strong></div>
-<div>等一下就回家</div></li>
+<li><div><strong>All Star</strong></div>
+<div>Smash Mouth</div></li>
 <li><div><strong>阿那亚Aranya</strong></div>
 <div>GALI</div></li>
-<li><div><strong>PUPPET SHOW</strong></div>
-<div>XG</div></li>
-<li><div><strong>On A Ride</strong></div>
-<div>Red Velvet</div></li>
+<li><div><strong>After LIKE</strong></div>
+<div>IVE</div></li>
+<li><div><strong>髒藝術家</strong></div>
+<div>MC HotDog</div></li>
+<li><div><strong>我不配</strong></div>
+<div>Jay Chou</div></li>
+<li><div><strong>夏色えがおで1,2,Jump!</strong></div>
+<div>μ's</div></li>
+<li><div><strong>我想part2</strong></div>
+<div>法老杨秋儒</div></li>
 </ol></td>
   </tr>
 </table>
