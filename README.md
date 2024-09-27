@@ -6,7 +6,6 @@ https://bobcheng.vercel.app/
 
 ---
 
-my top artists and tracks for last 4 weeks 👇
 <table>
   <tr>
     <td align="center"><strong>Top Artists</strong></td>
