@@ -1,6 +1,9 @@
 ### Hello, I'm Tanimal
 study at National Taiwan University  
-coding, video games, music, basketball  
+  
+:heart: interest: front-end, back-end, data-analysis, machine-learning    
+:computer: skill: React, Typescript, Python ... 
+
 https://bobcheng.vercel.app/  
 <br>
 
