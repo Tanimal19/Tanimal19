@@ -15,32 +15,32 @@ study at National Taiwan University
   </tr>
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb23241889efb57a4ce8338932'><br><strong>Aimer</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb3bb7609830c863d2f408c2e8'><br><strong>MC HotDog</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb784daff754ecfe0464ddbeb9'><br><strong>Ed Sheeran</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>MURDERTHISBEAT</strong></div>
-<div>GALIBrAnTB白景屹KnowKnow李大奔</div></li>
 <li><div><strong>髒藝術家</strong></div>
 <div>MC HotDog</div></li>
-<li><div><strong>Everybody (Backstreet's Back) - Radio Edit</strong></div>
-<div>Backstreet Boys</div></li>
+<li><div><strong>ブルーナイトダーリン</strong></div>
+<div>明透</div></li>
+<li><div><strong>低血ボルト</strong></div>
+<div>ZUTOMAYO</div></li>
 <li><div><strong>我想part2</strong></div>
 <div>法老杨秋儒</div></li>
+<li><div><strong>MURDERTHISBEAT</strong></div>
+<div>GALIBrAnTB白景屹KnowKnow李大奔</div></li>
+<li><div><strong>SIGN IS B - NEW ARRANGE SOLO VER.</strong></div>
+<div>B小町ルビー(CV:伊駒ゆりえ)有馬かな(CV:潘めぐみ)MEMちょ(CV:大久保瑠美)</div></li>
+<li><div><strong>我愛台妹</strong></div>
+<div>MC HotDog</div></li>
+<li><div><strong>After LIKE</strong></div>
+<div>IVE</div></li>
 <li><div><strong>夏色えがおで1,2,Jump!</strong></div>
 <div>μ's</div></li>
-<li><div><strong>我不配</strong></div>
-<div>Jay Chou</div></li>
-<li><div><strong>Thinking out Loud</strong></div>
-<div>Ed Sheeran</div></li>
-<li><div><strong>Albireo</strong></div>
-<div>ロクデナシ</div></li>
-<li><div><strong>All Star</strong></div>
-<div>Smash Mouth</div></li>
-<li><div><strong>Heads Will Roll - A-Trak Remix Radio Edit</strong></div>
-<div>Yeah Yeah YeahsA-Trak</div></li>
+<li><div><strong>il vento d'oro</strong></div>
+<div>Yugo Kanno</div></li>
 </ol></td>
   </tr>
 </table>
