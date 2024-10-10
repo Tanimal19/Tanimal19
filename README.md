@@ -1,8 +1,7 @@
-### Hello, I'm Tanimal / Bob Cheng
-study at National Taiwan University  
+### Hello from Tanimal / Bob Cheng
   
-:heart: interest: front-end, back-end, machine-learning    
-:computer: skill: React, Typescript, Python
+:heart: front-end, back-end, machine-learning    
+:computer: React, Typescript, Python
 
 [site](https://bobcheng.vercel.app/)  
 
