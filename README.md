@@ -1,11 +1,9 @@
 ### Hello from Tanimal / Bob Cheng
 
-[site](https://bobcheng.vercel.app/)  
+[portfolio & blog](https://bobcheng.vercel.app/)  
+  
 :heart: front-end, back-end, machine-learning    
 :computer: React, Typescript, Python
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanimal19&layout=compact&exclude_repo=HeadTurner_Unity)
-
 
 <br>
 
