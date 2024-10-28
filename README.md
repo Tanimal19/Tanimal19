@@ -20,24 +20,24 @@
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb83e2d0c9611f1fb6baafcb36'><br><strong>YOASOBI</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>我愛台妹</strong></div>
-<div>MC HotDogZhang Zhen Yue</div></li>
 <li><div><strong>低血ボルト</strong></div>
 <div>ZUTOMAYO</div></li>
-<li><div><strong>ブルーナイトダーリン</strong></div>
-<div>明透</div></li>
+<li><div><strong>我愛台妹</strong></div>
+<div>MC HotDogZhang Zhen Yue</div></li>
 <li><div><strong>OMG</strong></div>
 <div>NewJeans</div></li>
-<li><div><strong>Supernatural</strong></div>
+<li><div><strong>ブルーナイトダーリン</strong></div>
+<div>明透</div></li>
+<li><div><strong>BOP BOP!</strong></div>
+<div>VIVIZ</div></li>
+<li><div><strong>Hype Boy</strong></div>
 <div>NewJeans</div></li>
-<li><div><strong>After LIKE</strong></div>
-<div>IVE</div></li>
-<li><div><strong>SIGN IS B - NEW ARRANGE SOLO VER.</strong></div>
-<div>B小町ルビー(CV:伊駒ゆりえ)有馬かな(CV:潘めぐみ)MEMちょ(CV:大久保瑠美)</div></li>
-<li><div><strong>我想part2</strong></div>
-<div>法老杨秋儒</div></li>
 <li><div><strong>SOS</strong></div>
 <div>FUYUKO MAYUZUMI (CV: Eri Yukimura)</div></li>
+<li><div><strong>Supernatural</strong></div>
+<div>NewJeans</div></li>
+<li><div><strong>APT.</strong></div>
+<div>ROSÉBruno Mars</div></li>
 <li><div><strong>Right Now</strong></div>
 <div>NewJeans</div></li>
 </ol></td>
