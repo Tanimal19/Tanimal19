@@ -1,4 +1,4 @@
-### Hello from Tanimal / Bob Cheng
+### Hello, I'm Tanimal
 
 [portfolio & blog](https://bobcheng.vercel.app/)  
   
