@@ -1,9 +1,10 @@
 ### Hello, I'm Tanimal
 
-[portfolio & blog](https://bobcheng.vercel.app/)  
-  
-:heart: front-end, back-end, machine-learning    
-:computer: React, Typescript, Python
+I build front-end apps,
+and more...
+
+personal website -> [https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)  
+
 
 <br>
 
