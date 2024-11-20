@@ -1,7 +1,6 @@
 ### Hello, I'm Tanimal
 
-I build front-end apps,
-and more...
+I write frontend w/ React, Typescript  
 
 personal website > [https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)  
 
