@@ -3,7 +3,7 @@
 I build front-end apps,
 and more...
 
-personal website -> [https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)  
+personal website > [https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)  
 
 
 <br>
