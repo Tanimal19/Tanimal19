@@ -13,33 +13,33 @@ personal website > [https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)
     <td align="center"><strong>Top Tracks</strong></td>
   </tr>
   <tr>
-    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb876123de7dba4fd9f4a6b35d'><br><strong>Yitai Wang</strong></div><br>
+    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da'><br><strong>Billie Eilish</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eba4526fcc32ed603aa823e0a2'><br><strong>Tommy Richman</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb876123de7dba4fd9f4a6b35d'><br><strong>Yitai Wang</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb23241889efb57a4ce8338932'><br><strong>Aimer</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb38df323a9b0d7880ae59590b'><br><strong>結束バンド</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>三思而后行</strong></div>
 <div>Yitai Wang</div></li>
 <li><div><strong>Circles</strong></div>
 <div>Post Malone</div></li>
-<li><div><strong>山羊</strong></div>
-<div>Yitai Wang艾熱AIR</div></li>
 <li><div><strong>Soft Spot</strong></div>
 <div>keshi</div></li>
-<li><div><strong>APT.</strong></div>
-<div>ROSÉBruno Mars</div></li>
-<li><div><strong>beside you</strong></div>
-<div>keshi</div></li>
-<li><div><strong>危险派对</strong></div>
-<div>Yitai Wang刘至佳</div></li>
-<li><div><strong>wish you were gay</strong></div>
-<div>Billie Eilish</div></li>
-<li><div><strong>打个总结</strong></div>
-<div>Yitai Wang</div></li>
 <li><div><strong>Sunflower - Spider-Man: Into the Spider-Verse</strong></div>
 <div>Post MaloneSwae Lee</div></li>
+<li><div><strong>LUNCH</strong></div>
+<div>Billie Eilish</div></li>
+<li><div><strong>BIRDS OF A FEATHER</strong></div>
+<div>Billie Eilish</div></li>
+<li><div><strong>beside you</strong></div>
+<div>keshi</div></li>
+<li><div><strong>wish you were gay</strong></div>
+<div>Billie Eilish</div></li>
+<li><div><strong>As It Was</strong></div>
+<div>Harry Styles</div></li>
+<li><div><strong>危险派对</strong></div>
+<div>Yitai Wang刘至佳</div></li>
 </ol></td>
   </tr>
 </table>
