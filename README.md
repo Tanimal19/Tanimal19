@@ -13,33 +13,33 @@ personal website > [https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)
     <td align="center"><strong>Top Tracks</strong></td>
   </tr>
   <tr>
-    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eba4526fcc32ed603aa823e0a2'><br><strong>Tommy Richman</strong></div><br>
+    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eba4526fcc32ed603aa823e0a2'><br><strong>Tommy Richman</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb23241889efb57a4ce8338932'><br><strong>Aimer</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc'><br><strong>Fujii Kaze</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>龍捲風</strong></div>
-<div>Jay Chou</div></li>
 <li><div><strong>secondary option</strong></div>
 <div>leejean</div></li>
-<li><div><strong>As It Was</strong></div>
-<div>Harry Styles</div></li>
-<li><div><strong>apart of me</strong></div>
-<div>Takayoshi</div></li>
+<li><div><strong>龍捲風</strong></div>
+<div>Jay Chou</div></li>
+<li><div><strong>THOUGHT YOU WERE THE ONE</strong></div>
+<div>Tommy Richman</div></li>
+<li><div><strong>Soft Spot</strong></div>
+<div>keshi</div></li>
 <li><div><strong>MILLION DOLLAR BABY</strong></div>
 <div>Tommy Richman</div></li>
+<li><div><strong>As It Was</strong></div>
+<div>Harry Styles</div></li>
+<li><div><strong>LETTERMAN</strong></div>
+<div>Tommy RichmanPaco</div></li>
 <li><div><strong>WHAT DO U LIKE</strong></div>
 <div>Tommy Richman</div></li>
 <li><div><strong>ELECTRIFY TONIGHT</strong></div>
 <div>Tommy Richman</div></li>
-<li><div><strong>Blue Flame</strong></div>
-<div>LE SSERAFIM</div></li>
-<li><div><strong>THOUGHT YOU WERE THE ONE</strong></div>
-<div>Tommy Richman</div></li>
-<li><div><strong>GREEN THERAPY</strong></div>
-<div>Tommy Richman</div></li>
+<li><div><strong>もうええわ</strong></div>
+<div>Fujii Kaze</div></li>
 </ol></td>
   </tr>
 </table>
