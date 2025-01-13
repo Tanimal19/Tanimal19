@@ -15,31 +15,31 @@ personal website > [https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eba4526fcc32ed603aa823e0a2'><br><strong>Tommy Richman</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc'><br><strong>Fujii Kaze</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb7e58b86655f447e0ef0278b8'><br><strong>Aimer</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eba4526fcc32ed603aa823e0a2'><br><strong>Tommy Richman</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>secondary option</strong></div>
 <div>leejean</div></li>
 <li><div><strong>LETTERMAN</strong></div>
 <div>Tommy RichmanPaco</div></li>
-<li><div><strong>THOUGHT YOU WERE THE ONE</strong></div>
-<div>Tommy Richman</div></li>
-<li><div><strong>龍捲風</strong></div>
-<div>Jay Chou</div></li>
 <li><div><strong>Soft Spot</strong></div>
 <div>keshi</div></li>
 <li><div><strong>Roommates</strong></div>
 <div>Malcolm Todd</div></li>
-<li><div><strong>もうええわ</strong></div>
-<div>Fujii Kaze</div></li>
-<li><div><strong>融解sink</strong></div>
+<li><div><strong>THOUGHT YOU WERE THE ONE</strong></div>
+<div>Tommy Richman</div></li>
+<li><div><strong>踊り子</strong></div>
 <div>Vaundy</div></li>
-<li><div><strong>三思而后行</strong></div>
-<div>Yitai Wang</div></li>
-<li><div><strong>napori</strong></div>
-<div>Vaundy</div></li>
+<li><div><strong>apart of me</strong></div>
+<div>Takayoshi</div></li>
+<li><div><strong>Cookie</strong></div>
+<div>NewJeans</div></li>
+<li><div><strong>wish you were gay</strong></div>
+<div>Billie Eilish</div></li>
+<li><div><strong>Intercourse</strong></div>
+<div>Malcolm Todd</div></li>
 </ol></td>
   </tr>
 </table>
