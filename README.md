@@ -2,7 +2,7 @@
 
 I write frontend w/ React, Typescript  
 
-personal website > [https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)  
+[https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)  
 
 
 <br>
