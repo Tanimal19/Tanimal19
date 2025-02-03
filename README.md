@@ -13,33 +13,33 @@ I write frontend w/ React, Typescript
     <td align="center"><strong>Top Tracks</strong></td>
   </tr>
   <tr>
-    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
+    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eba4526fcc32ed603aa823e0a2'><br><strong>Tommy Richman</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb7e58b86655f447e0ef0278b8'><br><strong>Aimer</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc'><br><strong>Fujii Kaze</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb4a21b4760d2ecb7b0dcdc8da'><br><strong>Billie Eilish</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>Soft Spot</strong></div>
 <div>keshi</div></li>
-<li><div><strong>secondary option</strong></div>
-<div>leejean</div></li>
 <li><div><strong>skeletons</strong></div>
 <div>keshi</div></li>
+<li><div><strong>secondary option</strong></div>
+<div>leejean</div></li>
+<li><div><strong>Studying Alone on Holidays</strong></div>
+<div>Reo</div></li>
+<li><div><strong>もうええわ</strong></div>
+<div>Fujii Kaze</div></li>
 <li><div><strong>爱的函数</strong></div>
 <div>space x</div></li>
+<li><div><strong>三思而后行</strong></div>
+<div>Yitai Wang</div></li>
+<li><div><strong>apart of me</strong></div>
+<div>Takayoshi</div></li>
 <li><div><strong>THOUGHT YOU WERE THE ONE</strong></div>
 <div>Tommy Richman</div></li>
 <li><div><strong>Roommates</strong></div>
 <div>Malcolm Todd</div></li>
-<li><div><strong>一切變得稀里糊塗</strong></div>
-<div>等一下就回家</div></li>
-<li><div><strong>Studying Alone on Holidays</strong></div>
-<div>Reo</div></li>
-<li><div><strong>Tokyo Flash</strong></div>
-<div>Vaundy</div></li>
-<li><div><strong>apart of me</strong></div>
-<div>Takayoshi</div></li>
 </ol></td>
   </tr>
 </table>
