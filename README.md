@@ -14,32 +14,32 @@ I write frontend w/ React, Typescript
   </tr>
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb419d66ef21661311c806bfe'><br><strong>BABYMONSTER</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb6e409f6c3d8b08a2f52072e'><br><strong>Vaundy</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf92ed9c2af5378613aa730c6'><br><strong>Tommy Richman</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb23241889efb57a4ce8338932'><br><strong>Aimer</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebc5a3e6e9027505f5cba5fdbc'><br><strong>Fujii Kaze</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb7e58b86655f447e0ef0278b8'><br><strong>Aimer</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb5e37b7151b124c164a15d4db'><br><strong>しゃろう</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>skeletons</strong></div>
-<div>keshi</div></li>
-<li><div><strong>Soft Spot</strong></div>
-<div>keshi</div></li>
-<li><div><strong>secondary option</strong></div>
-<div>leejean</div></li>
 <li><div><strong>Really Like You</strong></div>
 <div>BABYMONSTER</div></li>
-<li><div><strong>napori</strong></div>
-<div>Vaundy</div></li>
-<li><div><strong>Tokyo Flash</strong></div>
-<div>Vaundy</div></li>
+<li><div><strong>Soft Spot</strong></div>
+<div>keshi</div></li>
+<li><div><strong>skeletons</strong></div>
+<div>keshi</div></li>
 <li><div><strong>三思而后行</strong></div>
 <div>Yitai Wang</div></li>
-<li><div><strong>一切變得稀里糊塗</strong></div>
-<div>等一下就回家</div></li>
 <li><div><strong>夏夜のマジック</strong></div>
 <div>indigo la End</div></li>
-<li><div><strong>apart of me</strong></div>
-<div>Takayoshi</div></li>
+<li><div><strong>MOON NIGHT</strong></div>
+<div>I Don't Like Mondays.</div></li>
+<li><div><strong>secondary option</strong></div>
+<div>leejean</div></li>
+<li><div><strong>東京フラッシュ</strong></div>
+<div>Vaundy</div></li>
+<li><div><strong>THOUGHT YOU WERE THE ONE</strong></div>
+<div>Tommy Richman</div></li>
+<li><div><strong>napori</strong></div>
+<div>Vaundy</div></li>
 </ol></td>
   </tr>
 </table>
