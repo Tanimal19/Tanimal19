@@ -1,6 +1,6 @@
 ### Hello, I'm Tanimal
 
-I like frontend.  
+I make web app.
 
 [https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)  
 
