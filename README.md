@@ -1,11 +1,3 @@
-### Hello, I'm Tanimal
-
-I write code.
-
-[https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)  
-
-
-<br>
 
 <table>
   <tr>
