@@ -1,6 +1,6 @@
 ### Hello, I'm Tanimal
 
-I make web app.
+I write code.
 
 [https://bobcheng.vercel.app/](https://bobcheng.vercel.app/)  
 
