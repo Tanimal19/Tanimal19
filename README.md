@@ -18,20 +18,20 @@
 <div>BABYMONSTER</div></li>
 <li><div><strong>外面有點冷 feat. 蛋堡 Soft Lipa</strong></div>
 <div>GordonSoft Lipa</div></li>
-<li><div><strong>wish you were gay</strong></div>
-<div>Billie Eilish</div></li>
+<li><div><strong>世界の秘密</strong></div>
+<div>Vaundy</div></li>
+<li><div><strong>BMF</strong></div>
+<div>SZA</div></li>
 <li><div><strong>napori</strong></div>
 <div>Vaundy</div></li>
-<li><div><strong>Obsessed</strong></div>
-<div>Ayumu Imazu</div></li>
+<li><div><strong>Big Poppa - 2005 Remaster</strong></div>
+<div>The Notorious B.I.G.</div></li>
 <li><div><strong>融解sink</strong></div>
 <div>Vaundy</div></li>
-<li><div><strong>Cookie</strong></div>
-<div>NewJeans</div></li>
-<li><div><strong>何なんw</strong></div>
-<div>Fujii Kaze</div></li>
-<li><div><strong>Euphoria</strong></div>
-<div>AndoraWaMi</div></li>
+<li><div><strong>What You Know Bout Love</strong></div>
+<div>Pop Smoke</div></li>
+<li><div><strong>マジックアワー</strong></div>
+<div>STUTSBIMRYO-Z</div></li>
 </ol></td>
   </tr>
 </table>
