@@ -1,4 +1,4 @@
-# 👋 I'm Tanimal / Bob Cheng
+# 👋 I'm Bob Cheng / Tanimal
 here's my website: https://bobcheng.vercel.app/
 
 <br/>
