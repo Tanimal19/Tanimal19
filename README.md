@@ -18,26 +18,26 @@ just want to share the music i like:
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>BMF</strong></div>
-<div>SZA</div></li>
-<li><div><strong>簡單愛</strong></div>
-<div>Jay Chou</div></li>
-<li><div><strong>偷偷</strong></div>
-<div>Soft Lipa閻韋伶</div></li>
 <li><div><strong>Independence</strong></div>
 <div>神崎エルザ</div></li>
 <li><div><strong>Fate</strong></div>
 <div>i-dle</div></li>
-<li><div><strong>OMG</strong></div>
-<div>NewJeans</div></li>
-<li><div><strong>關於小熊</strong></div>
-<div>Soft Lipa</div></li>
-<li><div><strong>To. X</strong></div>
-<div>TAEYEON</div></li>
+<li><div><strong>偷偷</strong></div>
+<div>Soft Lipa閻韋伶</div></li>
+<li><div><strong>What You Know Bout Love</strong></div>
+<div>Pop Smoke</div></li>
+<li><div><strong>簡單愛</strong></div>
+<div>Jay Chou</div></li>
+<li><div><strong>peach eyes</strong></div>
+<div>wave to earth</div></li>
+<li><div><strong>融解sink</strong></div>
+<div>Vaundy</div></li>
 <li><div><strong>NOT SORRY (Feat. pH-1) (Prod. by Slom)</strong></div>
 <div>Lee Young JipH-1</div></li>
-<li><div><strong>可愛女人</strong></div>
-<div>Jay Chou</div></li>
+<li><div><strong>napori</strong></div>
+<div>Vaundy</div></li>
+<li><div><strong>關於小熊</strong></div>
+<div>Soft Lipa</div></li>
 </ol></td>
   </tr>
 </table>
