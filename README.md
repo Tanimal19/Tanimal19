@@ -14,30 +14,30 @@ just want to share the music i like:
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb876123de7dba4fd9f4a6b35d'><br><strong>Yitai Wang</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebadf53c59da1a6d161a55f6d4'><br><strong>Fujii Kaze</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb7230f91cc46fb48d4c05e70a'><br><strong>Atarayo</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf6be169899c276073de46a1b'><br><strong>Vaundy</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>眼前的歌</strong></div>
 <div>Yitai Wang</div></li>
+<li><div><strong>21 Questions</strong></div>
+<div>50 CentNate Dogg</div></li>
 <li><div><strong>squabble up</strong></div>
 <div>Kendrick Lamar</div></li>
 <li><div><strong>ただ好きと言えたら</strong></div>
 <div>KERENMIAtarayo</div></li>
-<li><div><strong>21 Questions</strong></div>
-<div>50 CentNate Dogg</div></li>
-<li><div><strong>HEART's♡KISS - RUBY SOLO VER.</strong></div>
-<div>B小町ルビー(CV:伊駒ゆりえ)</div></li>
-<li><div><strong>wish you were gay</strong></div>
-<div>Billie Eilish</div></li>
-<li><div><strong>アルジャーノン</strong></div>
-<div>ヨルシカ</div></li>
-<li><div><strong>目不转睛</strong></div>
-<div>Yitai Wang</div></li>
 <li><div><strong>關於小熊</strong></div>
 <div>Soft Lipa</div></li>
 <li><div><strong>Cookie</strong></div>
 <div>NewJeans</div></li>
+<li><div><strong>wish you were gay</strong></div>
+<div>Billie Eilish</div></li>
+<li><div><strong>三思而后行</strong></div>
+<div>Yitai Wang</div></li>
+<li><div><strong>可愛女人</strong></div>
+<div>Jay Chou</div></li>
+<li><div><strong>偷偷</strong></div>
+<div>Soft Lipa閻韋伶</div></li>
 </ol></td>
   </tr>
 </table>
