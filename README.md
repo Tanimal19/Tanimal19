@@ -1,5 +1,5 @@
 # 👋 I'm Bob Cheng / Tanimal
-here's my website: https://bobcheng.vercel.app/
+here's my website: bobcheng.xyz
 
 <br/>
 <br/>
