@@ -11,9 +11,9 @@ just want to share the music i like:
     <td align="center"><strong>Top Tracks</strong></td>
   </tr>
   <tr>
-    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb02b3aa55ba238b2ceafb09da'><br><strong>Jay Chou</strong></div><br>
+    <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebf6be169899c276073de46a1b'><br><strong>Vaundy</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918'><br><strong>Kendrick Lamar</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb507349709ae19263301a62f7'><br><strong>YOASOBI</strong></div><br>
 </td>
@@ -22,22 +22,22 @@ just want to share the music i like:
 <div>The Notorious B.I.G.RedmanMethod Man</div></li>
 <li><div><strong>缸</strong></div>
 <div>No Party For Cao Dong</div></li>
-<li><div><strong>squabble up</strong></div>
-<div>Kendrick Lamar</div></li>
-<li><div><strong>眼前的歌</strong></div>
-<div>Yitai Wang</div></li>
-<li><div><strong>ただ好きと言えたら</strong></div>
-<div>KERENMIAtarayo</div></li>
 <li><div><strong>Priceless (feat. LISA)</strong></div>
 <div>Maroon 5LISA</div></li>
-<li><div><strong>Attention</strong></div>
-<div>NewJeans</div></li>
+<li><div><strong>外面有點冷 feat. 蛋堡 Soft Lipa</strong></div>
+<div>GordonSoft Lipa</div></li>
+<li><div><strong>squabble up</strong></div>
+<div>Kendrick Lamar</div></li>
+<li><div><strong>ただ好きと言えたら</strong></div>
+<div>KERENMIAtarayo</div></li>
 <li><div><strong>NOT SORRY (Feat. pH-1) (Prod. by Slom)</strong></div>
 <div>Lee Young JipH-1</div></li>
+<li><div><strong>Why You Look Sad?</strong></div>
+<div>Diverseddie</div></li>
 <li><div><strong>ADHD (feat. Jambino)</strong></div>
 <div>Lee Young JiJambino</div></li>
-<li><div><strong>旅路</strong></div>
-<div>Fujii Kaze</div></li>
+<li><div><strong>眼前的歌</strong></div>
+<div>Yitai Wang</div></li>
 </ol></td>
   </tr>
 </table>
