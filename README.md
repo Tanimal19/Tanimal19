@@ -13,31 +13,31 @@ just want to share the music i like:
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb7230f91cc46fb48d4c05e70a'><br><strong>Atarayo</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb507349709ae19263301a62f7'><br><strong>YOASOBI</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb2209db79b2ac606645bbe932'><br><strong>Saucy Dog</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>ただ好きと言えたら</strong></div>
-<div>KERENMIAtarayo</div></li>
 <li><div><strong>Hype Boy (250 Remix)</strong></div>
 <div>NewJeans</div></li>
+<li><div><strong>Brooklyn's Finest</strong></div>
+<div>JAY-ZThe Notorious B.I.G.</div></li>
+<li><div><strong>Rap Phenomenon (feat. Redman & Methodman) - 2005 Remaster</strong></div>
+<div>The Notorious B.I.G.RedmanMethod Man</div></li>
 <li><div><strong>群青</strong></div>
 <div>YOASOBI</div></li>
 <li><div><strong>老人と海</strong></div>
 <div>ヨルシカ</div></li>
 <li><div><strong>光れ</strong></div>
 <div>Atarayo</div></li>
-<li><div><strong>シンデレラボーイ</strong></div>
-<div>Saucy Dog</div></li>
-<li><div><strong>夏霞</strong></div>
-<div>Atarayo</div></li>
-<li><div><strong>雫</strong></div>
-<div>Atarayo</div></li>
-<li><div><strong>左右盲</strong></div>
+<li><div><strong>雨とカプチーノ</strong></div>
 <div>ヨルシカ</div></li>
-<li><div><strong>花人局</strong></div>
+<li><div><strong>へび</strong></div>
 <div>ヨルシカ</div></li>
+<li><div><strong>Cookie (FRNK Remix)</strong></div>
+<div>NewJeans</div></li>
+<li><div><strong>ただ好きと言えたら</strong></div>
+<div>KERENMIAtarayo</div></li>
 </ol></td>
   </tr>
 </table>
