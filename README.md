@@ -1,5 +1,5 @@
-# 👋 I'm Bob Cheng / Tanimal
-here's my website: [bobcheng.xyz](https://www.bobcheng.xyz/)
+**Bob Cheng / Tanimal**  
+[bobcheng.xyz](https://www.bobcheng.xyz/)
 
 <br/>
 <br/>
