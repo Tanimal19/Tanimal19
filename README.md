@@ -12,10 +12,10 @@ just want to share the music i like:
   </tr>
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb7230f91cc46fb48d4c05e70a'><br><strong>Atarayo</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb80668ba2b15094d083780ea9'><br><strong>NewJeans</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb7230f91cc46fb48d4c05e70a'><br><strong>Atarayo</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb507349709ae19263301a62f7'><br><strong>YOASOBI</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb2209db79b2ac606645bbe932'><br><strong>Saucy Dog</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb876123de7dba4fd9f4a6b35d'><br><strong>Yitai Wang</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>外面有點冷 feat. 蛋堡 Soft Lipa</strong></div>
@@ -36,8 +36,8 @@ just want to share the music i like:
 <div>Soft Lipa閻韋伶</div></li>
 <li><div><strong>關於小熊</strong></div>
 <div>Soft Lipa</div></li>
-<li><div><strong>あぁ、もう。</strong></div>
-<div>Saucy Dog</div></li>
+<li><div><strong>The Weekend</strong></div>
+<div>88risingBIBI</div></li>
 </ol></td>
   </tr>
 </table>
