@@ -15,29 +15,29 @@ just want to share the music i like:
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb876123de7dba4fd9f4a6b35d'><br><strong>Yitai Wang</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb2209db79b2ac606645bbe932'><br><strong>Saucy Dog</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebecb2f33d56d05407f877aa81'><br><strong>Aimer</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb5e37b7151b124c164a15d4db'><br><strong>しゃろう</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>大橋</strong></div>
 <div>Yitai Wang</div></li>
-<li><div><strong>ムーンライト</strong></div>
-<div>Hoshimachi Suisei</div></li>
-<li><div><strong>あぁ、もう。</strong></div>
-<div>Saucy Dog</div></li>
 <li><div><strong>外面有點冷 feat. 蛋堡 Soft Lipa</strong></div>
 <div>GordonSoft Lipa</div></li>
-<li><div><strong>關於小熊</strong></div>
-<div>Soft Lipa</div></li>
 <li><div><strong>眼前的歌</strong></div>
 <div>Yitai Wang</div></li>
+<li><div><strong>關於小熊</strong></div>
+<div>Soft Lipa</div></li>
 <li><div><strong>簡單愛</strong></div>
 <div>Jay Chou</div></li>
-<li><div><strong>プロポーズ</strong></div>
-<div>natori</div></li>
-<li><div><strong>Hype Boy (250 Remix)</strong></div>
-<div>NewJeans</div></li>
 <li><div><strong>Rap Phenomenon (feat. Redman & Methodman) - 2005 Remaster</strong></div>
 <div>The Notorious B.I.G.RedmanMethod Man</div></li>
+<li><div><strong>あぁ、もう。</strong></div>
+<div>Saucy Dog</div></li>
+<li><div><strong>ムーンライト</strong></div>
+<div>Hoshimachi Suisei</div></li>
+<li><div><strong>OMG</strong></div>
+<div>NewJeans</div></li>
+<li><div><strong>Brooklyn's Finest</strong></div>
+<div>JAY-ZThe Notorious B.I.G.</div></li>
 </ol></td>
   </tr>
 </table>
