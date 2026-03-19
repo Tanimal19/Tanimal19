@@ -4,7 +4,6 @@
 <br/>
 <br/>
 
-just want to share the music i like:  
 <table>
   <tr>
     <td align="center"><strong>Top Artists</strong></td>
