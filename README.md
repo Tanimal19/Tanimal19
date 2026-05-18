@@ -12,9 +12,9 @@
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb3ca01ea6de9d68b5b2ef0aa7'><br><strong>頑童Mj116</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb3bb7609830c863d2f408c2e8'><br><strong>MC HotDog</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab67616d0000b273bcf323cc93fe31fc4041896d'><br><strong>法老</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebef32a08060d7d44c094aa1b0'><br><strong>GALI</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb3bb7609830c863d2f408c2e8'><br><strong>MC HotDog</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb2e015c80ea5aeb4d55750c8e'><br><strong>Atarayo</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>千鳥</strong></div>
@@ -23,20 +23,20 @@
 <div>Rakim</div></li>
 <li><div><strong>Halftime</strong></div>
 <div>Nas</div></li>
-<li><div><strong>無袂煞</strong></div>
-<div>頑童Mj116</div></li>
-<li><div><strong>レプリカント</strong></div>
-<div>ヨルシカ</div></li>
-<li><div><strong>里長Bro</strong></div>
-<div>頑童Mj116</div></li>
 <li><div><strong>NONO</strong></div>
 <div>頑童Mj116</div></li>
+<li><div><strong>無袂煞</strong></div>
+<div>頑童Mj116</div></li>
+<li><div><strong>里長Bro</strong></div>
+<div>頑童Mj116</div></li>
+<li><div><strong>medicine</strong></div>
+<div>Leina</div></li>
 <li><div><strong>踊ろうぜ</strong></div>
 <div>ヨルシカ</div></li>
-<li><div><strong>打个总结</strong></div>
-<div>Yitai Wang</div></li>
-<li><div><strong>It's About Time</strong></div>
-<div>頑童Mj116</div></li>
+<li><div><strong>レプリカント</strong></div>
+<div>ヨルシカ</div></li>
+<li><div><strong>靴の花火</strong></div>
+<div>ヨルシカ</div></li>
 </ol></td>
   </tr>
 </table>
