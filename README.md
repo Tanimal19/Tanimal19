@@ -17,25 +17,25 @@
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb36f3050772f0c73e6141a61'><br><strong>ILLIT</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>デスぺレート</strong></div>
-<div>TeddyLoidGigaLOLUET</div></li>
 <li><div><strong>Sugarcoat (NATTY Solo)</strong></div>
 <div>KISS OF LIFE</div></li>
+<li><div><strong>デスぺレート</strong></div>
+<div>TeddyLoidGigaLOLUET</div></li>
 <li><div><strong>Any song</strong></div>
 <div>ZICO</div></li>
+<li><div><strong>NOT CUTE ANYMORE</strong></div>
+<div>ILLIT</div></li>
+<li><div><strong>OMG (FRNK Remix)</strong></div>
+<div>NewJeans</div></li>
+<li><div><strong>Billyeoon Goyangi (Do the Dance)</strong></div>
+<div>ILLIT</div></li>
 <li><div><strong>千鳥</strong></div>
 <div>ヨルシカ</div></li>
 <li><div><strong>プレイシック</strong></div>
 <div>ヨルシカ</div></li>
-<li><div><strong>第六感</strong></div>
-<div>Reol</div></li>
-<li><div><strong>NOT CUTE ANYMORE</strong></div>
-<div>ILLIT</div></li>
-<li><div><strong>medicine</strong></div>
-<div>Leina</div></li>
+<li><div><strong>Jasmine</strong></div>
+<div>DPR LIVE</div></li>
 <li><div><strong>Attention</strong></div>
-<div>NewJeans</div></li>
-<li><div><strong>OMG</strong></div>
 <div>NewJeans</div></li>
 </ol></td>
   </tr>
