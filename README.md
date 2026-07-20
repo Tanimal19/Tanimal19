@@ -11,32 +11,32 @@
   </tr>
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebef32a08060d7d44c094aa1b0'><br><strong>GALI</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918'><br><strong>Kendrick Lamar</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb3ca01ea6de9d68b5b2ef0aa7'><br><strong>頑童Mj116</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918'><br><strong>Kendrick Lamar</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb3bb7609830c863d2f408c2e8'><br><strong>MC HotDog</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebef32a08060d7d44c094aa1b0'><br><strong>GALI</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>actually</strong></div>
 <div>ZICO</div></li>
-<li><div><strong>Runaway</strong></div>
-<div>Kanye WestPusha T</div></li>
 <li><div><strong>Billyeoon Goyangi (Do the Dance)</strong></div>
 <div>ILLIT</div></li>
+<li><div><strong>Runaway</strong></div>
+<div>Kanye WestPusha T</div></li>
 <li><div><strong>Sugarcoat (NATTY Solo)</strong></div>
 <div>KISS OF LIFE</div></li>
-<li><div><strong>Ni**as In Paris</strong></div>
-<div>JAŸ-ZKanye West</div></li>
-<li><div><strong>OMG (FRNK Remix)</strong></div>
-<div>NewJeans</div></li>
-<li><div><strong>火星人</strong></div>
-<div>ヨルシカ</div></li>
 <li><div><strong>GANADARA (Feat. IU)</strong></div>
 <div>Jay ParkIU</div></li>
-<li><div><strong>DNA.</strong></div>
-<div>Kendrick Lamar</div></li>
-<li><div><strong>200%</strong></div>
-<div>AKMU</div></li>
+<li><div><strong>Jasmine</strong></div>
+<div>DPR LIVE</div></li>
+<li><div><strong>我愛台妹</strong></div>
+<div>MC HotDogZhang Zhen Yue</div></li>
+<li><div><strong>Cheer up Mr. Kim</strong></div>
+<div>Rollercoaster</div></li>
+<li><div><strong>丸ノ内サディスティック - Electric Mole '03</strong></div>
+<div>Sheena Ringo</div></li>
+<li><div><strong>ヒッチコック</strong></div>
+<div>ヨルシカ</div></li>
 </ol></td>
   </tr>
 </table>
