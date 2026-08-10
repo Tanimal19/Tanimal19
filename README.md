@@ -14,27 +14,27 @@
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb39f876095d0486fc3a54e4cf'><br><strong>ZUTOMAYO</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb8dae71b664393f38ba91f891'><br><strong>NewJeans</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebb718d2d3988005d3a72f22c9'><br><strong>Vaundy</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb7fabcc2491d95050faa5b710'><br><strong>ILLIT</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebef32a08060d7d44c094aa1b0'><br><strong>GALI</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>丸ノ内サディスティック - Electric Mole '03</strong></div>
 <div>Sheena Ringo</div></li>
 <li><div><strong>踊り子</strong></div>
 <div>Vaundy</div></li>
-<li><div><strong>修羅場 - シングル</strong></div>
-<div>Tokyo Incidents</div></li>
 <li><div><strong>Billyeoon Goyangi (Do the Dance)</strong></div>
 <div>ILLIT</div></li>
+<li><div><strong>修羅場 - シングル</strong></div>
+<div>Tokyo Incidents</div></li>
 <li><div><strong>Week End</strong></div>
 <div>Gen Hoshino</div></li>
 <li><div><strong>Big Poppa - 2005 Remaster</strong></div>
 <div>The Notorious B.I.G.</div></li>
 <li><div><strong>Super Ball</strong></div>
 <div>TOMOO</div></li>
-<li><div><strong>秒針を噛む</strong></div>
-<div>ZUTOMAYO</div></li>
 <li><div><strong>夜に駆ける</strong></div>
 <div>YOASOBI</div></li>
+<li><div><strong>秒針を噛む</strong></div>
+<div>ZUTOMAYO</div></li>
 <li><div><strong>愛を伝えたいだとか</strong></div>
 <div>Aimyon</div></li>
 </ol></td>
