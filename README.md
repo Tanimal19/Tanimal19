@@ -11,32 +11,32 @@
   </tr>
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4'><br><strong>NewJeans</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb87fbbe9ed03fbb500595e720'><br><strong>Jay Chou</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4'><br><strong>NewJeans</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab67616d0000b273002a9043bf1e4c11126e30c9'><br><strong>Soft Lipa</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb7fabcc2491d95050faa5b710'><br><strong>ILLIT</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb2209db79b2ac606645bbe932'><br><strong>Saucy Dog</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>屑屑</strong></div>
 <div>ChiliChill</div></li>
 <li><div><strong>我的悲伤是水做的（作者版）</strong></div>
 <div>ChiliChill</div></li>
-<li><div><strong>丸ノ内サディスティック - Electric Mole '03</strong></div>
+<li><div><strong>丸ノ内サディスティック</strong></div>
 <div>Sheena Ringo</div></li>
+<li><div><strong>Hit the Rhyme</strong></div>
+<div>Soft Lipa</div></li>
 <li><div><strong>Nobody Knows</strong></div>
-<div>KISS OF LIFE</div></li>
-<li><div><strong>Super Ball</strong></div>
-<div>TOMOO</div></li>
-<li><div><strong>Lips Hips Kiss</strong></div>
 <div>KISS OF LIFE</div></li>
 <li><div><strong>I Get Around</strong></div>
 <div>2PacDigital Underground</div></li>
-<li><div><strong>丸ノ内サディスティック</strong></div>
-<div>Sheena Ringo</div></li>
-<li><div><strong>Billyeoon Goyangi (Do the Dance)</strong></div>
-<div>ILLIT</div></li>
+<li><div><strong>Super Ball</strong></div>
+<div>TOMOO</div></li>
+<li><div><strong>うたたね</strong></div>
+<div>Leina</div></li>
 <li><div><strong>プレイシック</strong></div>
 <div>ヨルシカ</div></li>
+<li><div><strong>丸ノ内サディスティック - Electric Mole '03</strong></div>
+<div>Sheena Ringo</div></li>
 </ol></td>
   </tr>
 </table>
