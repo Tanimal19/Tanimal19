@@ -12,31 +12,31 @@
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb39f876095d0486fc3a54e4cf'><br><strong>ZUTOMAYO</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4'><br><strong>NewJeans</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb87fbbe9ed03fbb500595e720'><br><strong>Jay Chou</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb73de139b5475bf01f2bff759'><br><strong>JAŸ-Z</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebecb2f33d56d05407f877aa81'><br><strong>Aimer</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab67616d0000b273002a9043bf1e4c11126e30c9'><br><strong>Soft Lipa</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebdcf0933f3e5b2368e30f6a7b'><br><strong>ChiliChill</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>屑屑</strong></div>
-<div>ChiliChill</div></li>
 <li><div><strong>Hit the Rhyme</strong></div>
 <div>Soft Lipa</div></li>
+<li><div><strong>屑屑</strong></div>
+<div>ChiliChill</div></li>
 <li><div><strong>丸ノ内サディスティック</strong></div>
 <div>Sheena Ringo</div></li>
-<li><div><strong>I Get Around</strong></div>
-<div>2PacDigital Underground</div></li>
-<li><div><strong>我的悲伤是水做的（作者版）</strong></div>
-<div>ChiliChill</div></li>
 <li><div><strong>恋爱困难少女</strong></div>
 <div>ChiliChill</div></li>
-<li><div><strong>Nobody Knows</strong></div>
-<div>KISS OF LIFE</div></li>
-<li><div><strong>Ham</strong></div>
-<div>ZUTOMAYO</div></li>
+<li><div><strong>我的悲伤是水做的（作者版）</strong></div>
+<div>ChiliChill</div></li>
+<li><div><strong>Super Ball</strong></div>
+<div>TOMOO</div></li>
+<li><div><strong>Week End</strong></div>
+<div>Gen Hoshino</div></li>
 <li><div><strong>プレイシック</strong></div>
 <div>ヨルシカ</div></li>
-<li><div><strong>修羅場 - シングル</strong></div>
-<div>Tokyo Incidents</div></li>
+<li><div><strong>After Rain -Scarlet ver.-</strong></div>
+<div>Aimer</div></li>
+<li><div><strong>Season</strong></div>
+<div>iri</div></li>
 </ol></td>
   </tr>
 </table>
