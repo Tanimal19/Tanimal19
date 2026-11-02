@@ -12,31 +12,31 @@
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb39f876095d0486fc3a54e4cf'><br><strong>ZUTOMAYO</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb39ba6dcd4355c03de0b50918'><br><strong>Kendrick Lamar</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab67616d0000b273002a9043bf1e4c11126e30c9'><br><strong>Soft Lipa</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4'><br><strong>NewJeans</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab67616d0000b273002a9043bf1e4c11126e30c9'><br><strong>Soft Lipa</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb2e015c80ea5aeb4d55750c8e'><br><strong>Atarayo</strong></div><br>
 </td>
    <td id="top-track"><ol>
 <li><div><strong>花桥</strong></div>
 <div>回春丹</div></li>
 <li><div><strong>丸ノ内サディスティック</strong></div>
 <div>Sheena Ringo</div></li>
-<li><div><strong>ないものねだり</strong></div>
-<div>KANA-BOON</div></li>
 <li><div><strong>あいつら全員同窓会</strong></div>
 <div>ZUTOMAYO</div></li>
-<li><div><strong>JUMP IN</strong></div>
-<div>めぐみん (CV: 高橋李依)ゆんゆん (CV: 豊崎愛生)</div></li>
+<li><div><strong>ないものねだり</strong></div>
+<div>KANA-BOON</div></li>
 <li><div><strong>屑屑</strong></div>
 <div>ChiliChill</div></li>
 <li><div><strong>Hit the Rhyme</strong></div>
 <div>Soft Lipa</div></li>
-<li><div><strong>プレイシック</strong></div>
-<div>ヨルシカ</div></li>
+<li><div><strong>And July</strong></div>
+<div>HeizeDEANdj friz</div></li>
+<li><div><strong>Super Ball</strong></div>
+<div>TOMOO</div></li>
+<li><div><strong>修羅場 - シングル</strong></div>
+<div>Tokyo Incidents</div></li>
 <li><div><strong>Hametsu no Junjyo -Mikumo solo-</strong></div>
 <div>ワルキューレ</div></li>
-<li><div><strong>我的悲伤是水做的（作者版）</strong></div>
-<div>ChiliChill</div></li>
 </ol></td>
   </tr>
 </table>
