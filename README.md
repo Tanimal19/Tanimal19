@@ -12,31 +12,31 @@
   <tr>
     <td align="center" id="top-artist"><div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb841bdcf28a956f3a384ffcf4'><br><strong>NewJeans</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5ebe62cff9c6018ae5616b01eab'><br><strong>ヨルシカ</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb39f876095d0486fc3a54e4cf'><br><strong>ZUTOMAYO</strong></div><br>
 <div><img width='60px' src='https://i.scdn.co/image/ab67616d0000b273002a9043bf1e4c11126e30c9'><br><strong>Soft Lipa</strong></div><br>
-<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb5191923deb0a17fa49bf075b'><br><strong>ILLIT</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb39f876095d0486fc3a54e4cf'><br><strong>ZUTOMAYO</strong></div><br>
+<div><img width='60px' src='https://i.scdn.co/image/ab6761610000e5eb3dda5defe3e9877df3e76220'><br><strong>Lee Young Ji</strong></div><br>
 </td>
    <td id="top-track"><ol>
-<li><div><strong>花桥</strong></div>
-<div>回春丹</div></li>
 <li><div><strong>丸ノ内サディスティック</strong></div>
 <div>Sheena Ringo</div></li>
 <li><div><strong>あいつら全員同窓会</strong></div>
 <div>ZUTOMAYO</div></li>
-<li><div><strong>And July</strong></div>
-<div>HeizeDEANdj friz</div></li>
+<li><div><strong>Super Ball</strong></div>
+<div>TOMOO</div></li>
+<li><div><strong>花桥</strong></div>
+<div>回春丹</div></li>
 <li><div><strong>屑屑</strong></div>
 <div>ChiliChill</div></li>
-<li><div><strong>Hit the Rhyme</strong></div>
-<div>Soft Lipa</div></li>
 <li><div><strong>Billyeoon Goyangi (Do the Dance)</strong></div>
 <div>ILLIT</div></li>
-<li><div><strong>Attention</strong></div>
-<div>NewJeans</div></li>
-<li><div><strong>ないものねだり</strong></div>
-<div>KANA-BOON</div></li>
 <li><div><strong>actually</strong></div>
 <div>ZICO</div></li>
+<li><div><strong>C.R.E.A.M. - Call of Duty: Modern Warfare 4 Remix</strong></div>
+<div>Wu-Tang ClanLee Young JiJay ParkE SENS</div></li>
+<li><div><strong>Attention</strong></div>
+<div>NewJeans</div></li>
+<li><div><strong>Hit the Rhyme</strong></div>
+<div>Soft Lipa</div></li>
 </ol></td>
   </tr>
 </table>
